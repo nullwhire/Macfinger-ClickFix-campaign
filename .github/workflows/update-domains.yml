@@ -24,7 +24,9 @@ jobs:
         run: |
           python scripts/urlscan_extract.py \
             --query 'filename:"ext-b.4f9db6afd06a.js" OR (domain:velvet-otter-glagceis.life AND filename:"t.js")' \
-            --out-dir output
+            --out-dir output \
+            --by-day 30 \
+            --cumulative
 
       - name: Commit se houver alterações
         run: |
