@@ -2,7 +2,7 @@ name: Atualizar domínios urlscan.io
 
 on:
   schedule:
-    # corre a cada 6 horas — ajusta à frequência que fizer sentido
+    # corre a cada 6 horas — 
     - cron: "0 */6 * * *"
   workflow_dispatch: {}
 
