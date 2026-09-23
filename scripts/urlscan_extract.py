@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 """
-Extrai TODOS os resultados de uma query de pesquisa do urlscan.io,
-paginando via search_after, e guarda:
-  - output/results.json  -> dump completo de cada resultado
-  - output/domains.txt   -> lista única e ordenada de domínios
-  - output/urls.txt      -> lista única e ordenada de URLs completos
+Extracts ALL results from a search query on urlscan.io,
+paging via `search_after`, and saves:
+  - output/results.json  -> complete dump of each result
+  - output/domains.txt   -> single, sorted list of domains
+  - output/urls.txt      -> single, sorted list of full URLs
 
-Uso:
-    python scripts/urlscan_extract.py --query 'QUERY' [--api-key KEY] [--out-dir output]
+Usage:
+    python scripts/urlscan_extract.py --query ‘QUERY’ [--api-key KEY] [--out-dir output]
 
-A API key pode vir também da variável de ambiente URLSCAN_API_KEY.
-Sem API key funciona na mesma, mas com rate limit mais baixo.
+The API key can also be provided via the URLSCAN_API_KEY environment variable.
+It works without an API key as well, but with a lower rate limit.
+
+
 """
 
 import argparse
@@ -93,11 +95,7 @@ def extract_domains_and_urls(results: list[dict]) -> tuple[list[str], list[str]]
 
 
 def fetch_all_by_day(query: str, api_key: str | None, days: int, size: int = 100, sleep: float = 0.6) -> list[dict]:
-    """
-    Corre a query separadamente para cada dia dos últimos `days` dias.
-    Contorna o teto de resultados por query de contas gratuitas, já que
-    cada fatia diária fica abaixo do limite mesmo que o total agregado não fique.
-    """
+    
     import datetime
 
     all_results = []
@@ -123,7 +121,7 @@ def fetch_all_by_day(query: str, api_key: str | None, days: int, size: int = 100
 
 
 def load_existing_results(path: str) -> dict[str, dict]:
-    """Lê um results.json existente e devolve um dict indexado por _id."""
+  
     if not os.path.exists(path):
         return {}
     try:
