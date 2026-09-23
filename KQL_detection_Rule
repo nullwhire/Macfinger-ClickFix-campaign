@@ -1,0 +1,9 @@
+let MaliciousDomains = externaldata(Domain: string)
+    ["https://raw.githubusercontent.com/nullwhire/Macfinger-ClickFix-campaign/refs/heads/main/output/domains.txt"]
+    with (format=txt)
+    | take 10000;
+DeviceNetworkEvents
+| where Timestamp > ago(1h)
+| extend Query = iif(ActionType == "DnsConnectionInspected", tostring(parse_json(AdditionalFields).query), "")
+| where RemoteUrl has_any (MaliciousDomains) or Query has_any (MaliciousDomains)
+| project Timestamp, DeviceId, DeviceName, ActionType, RemoteUrl, Query, RemoteIP, InitiatingProcessFileName
