@@ -1,0 +1,5784 @@
+[
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "alpha789.online"
+      },
+      "page": {
+        "url": "alpha789.online"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "alpha789.online",
+      "apexDomain": "alpha789.online",
+      "time": "2026-09-23T10:24:51.862Z",
+      "uuid": "01a0cdcb-db3d-719f-a446-55811b42f2cf",
+      "url": "http://alpha789.online/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 4,
+      "dataLength": 2080360,
+      "encodedDataLength": 1418990,
+      "requests": 49
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "188.114.96.3",
+      "apexDomainAgeDays": 1034,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "ALPHA789",
+      "url": "https://alpha789.online/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 28,
+      "domainAgeDays": 1034,
+      "tlsValidFrom": "2026-08-26T08:36:40.000Z",
+      "domain": "alpha789.online",
+      "apexDomain": "alpha789.online",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cdcb-db3d-719f-a446-55811b42f2cf",
+    "_score": null,
+    "sort": [
+      1790159091862,
+      "01a0cdcb-db3d-719f-a446-55811b42f2cf"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cdcb-db3d-719f-a446-55811b42f2cf/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cdcb-db3d-719f-a446-55811b42f2cf.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "alkaramriceeng.com.pk"
+      },
+      "page": {
+        "url": "alkaramriceeng.com.pk"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "alkaramriceeng.com.pk",
+      "apexDomain": "alkaramriceeng.com.pk",
+      "time": "2026-09-23T10:21:32.612Z",
+      "uuid": "01a0cdc8-8f0d-7726-95d6-86d42d440b31",
+      "url": "http://alkaramriceeng.com.pk/"
+    },
+    "stats": {
+      "uniqIPs": 11,
+      "uniqCountries": 5,
+      "dataLength": 6218494,
+      "encodedDataLength": 1916278,
+      "requests": 153
+    },
+    "page": {
+      "country": "DE",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "159.195.200.114",
+      "apexDomainAgeDays": 2980,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Al Karam Rice Engineering - Rice Processing Machines Company",
+      "url": "https://alkaramriceeng.com.pk/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 8,
+      "ptr": "neptune.premium-webhost.com",
+      "domainAgeDays": 2980,
+      "tlsValidFrom": "2026-09-14T18:13:01.000Z",
+      "domain": "alkaramriceeng.com.pk",
+      "apexDomain": "alkaramriceeng.com.pk",
+      "asnname": "netcup-AS netcup GmbH, DE",
+      "asn": "AS197540",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cdc8-8f0d-7726-95d6-86d42d440b31",
+    "_score": null,
+    "sort": [
+      1790158892612,
+      "01a0cdc8-8f0d-7726-95d6-86d42d440b31"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cdc8-8f0d-7726-95d6-86d42d440b31/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cdc8-8f0d-7726-95d6-86d42d440b31.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "oakandstoneproperty.com"
+      },
+      "page": {
+        "url": "oakandstoneproperty.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "oakandstoneproperty.com",
+      "apexDomain": "oakandstoneproperty.com",
+      "time": "2026-09-23T08:10:17.394Z",
+      "uuid": "01a0cd50-89de-7425-95b7-5bbea508c06e",
+      "url": "http://oakandstoneproperty.com/"
+    },
+    "stats": {
+      "uniqIPs": 16,
+      "uniqCountries": 5,
+      "dataLength": 41427554,
+      "encodedDataLength": 37486394,
+      "requests": 158
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.61",
+      "apexDomainAgeDays": 581,
+      "language": "nl",
+      "mimeType": "text/html",
+      "title": "OAK and Stone Properties",
+      "url": "https://oakandstoneproperty.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 31,
+      "ptr": "61.0.153.160.host.secureserver.net",
+      "domainAgeDays": 581,
+      "tlsValidFrom": "2026-08-22T16:06:07.000Z",
+      "domain": "oakandstoneproperty.com",
+      "apexDomain": "oakandstoneproperty.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd50-89de-7425-95b7-5bbea508c06e",
+    "_score": null,
+    "sort": [
+      1790151017394,
+      "01a0cd50-89de-7425-95b7-5bbea508c06e"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd50-89de-7425-95b7-5bbea508c06e/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd50-89de-7425-95b7-5bbea508c06e.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "prontohandymanllc.com"
+      },
+      "page": {
+        "url": "prontohandymanllc.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "prontohandymanllc.com",
+      "apexDomain": "prontohandymanllc.com",
+      "time": "2026-09-23T07:29:17.926Z",
+      "uuid": "01a0cd2b-122b-725d-8100-946f9e615a08",
+      "url": "https://prontohandymanllc.com/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 4,
+      "dataLength": 11200953,
+      "encodedDataLength": 9880169,
+      "requests": 125
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "ip": "50.6.154.46",
+      "apexDomainAgeDays": 1316,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Pronto Handyman LLC – Rental Property Maintenance Services",
+      "url": "https://prontohandymanllc.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 45,
+      "ptr": "50-6-154-46.unifiedlayer.com",
+      "domainAgeDays": 1316,
+      "tlsValidFrom": "2026-08-09T00:52:09.000Z",
+      "domain": "prontohandymanllc.com",
+      "apexDomain": "prontohandymanllc.com",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd2b-122b-725d-8100-946f9e615a08",
+    "_score": null,
+    "sort": [
+      1790148557926,
+      "01a0cd2b-122b-725d-8100-946f9e615a08"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd2b-122b-725d-8100-946f9e615a08/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd2b-122b-725d-8100-946f9e615a08.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "davariyabrothers.com"
+      },
+      "page": {
+        "url": "davariyabrothers.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "davariyabrothers.com",
+      "apexDomain": "davariyabrothers.com",
+      "time": "2026-09-23T07:28:28.613Z",
+      "uuid": "01a0cd2a-5989-765d-890c-4c9c512af239",
+      "url": "https://davariyabrothers.com/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 4,
+      "dataLength": 6832666,
+      "encodedDataLength": 5659271,
+      "requests": 54
+    },
+    "page": {
+      "server": "cloudflare",
+      "ip": "104.21.92.252",
+      "apexDomainAgeDays": 3020,
+      "mimeType": "text/html",
+      "title": "Davariya Brothers",
+      "url": "https://davariyabrothers.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 12,
+      "domainAgeDays": 3020,
+      "tlsValidFrom": "2026-09-10T23:45:32.000Z",
+      "domain": "davariyabrothers.com",
+      "apexDomain": "davariyabrothers.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd2a-5989-765d-890c-4c9c512af239",
+    "_score": null,
+    "sort": [
+      1790148508613,
+      "01a0cd2a-5989-765d-890c-4c9c512af239"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd2a-5989-765d-890c-4c9c512af239/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd2a-5989-765d-890c-4c9c512af239.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "teczkibezkwasowe.com"
+      },
+      "page": {
+        "url": "teczkibezkwasowe.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.teczkibezkwasowe.com",
+      "apexDomain": "teczkibezkwasowe.com",
+      "time": "2026-09-23T07:10:32.549Z",
+      "uuid": "01a0cd19-eea1-74e5-bfac-6249002c473d",
+      "url": "http://www.teczkibezkwasowe.com/"
+    },
+    "stats": {
+      "uniqIPs": 12,
+      "uniqCountries": 3,
+      "dataLength": 6670547,
+      "encodedDataLength": 2358954,
+      "requests": 101
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "188.114.96.3",
+      "apexDomainAgeDays": 3516,
+      "language": "pl",
+      "mimeType": "text/html",
+      "title": "Home - Teczki na dokumenty",
+      "url": "https://www.teczkibezkwasowe.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 52,
+      "domainAgeDays": 3516,
+      "tlsValidFrom": "2026-08-02T01:44:20.000Z",
+      "domain": "www.teczkibezkwasowe.com",
+      "apexDomain": "teczkibezkwasowe.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd19-eea1-74e5-bfac-6249002c473d",
+    "_score": null,
+    "sort": [
+      1790147432549,
+      "01a0cd19-eea1-74e5-bfac-6249002c473d"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd19-eea1-74e5-bfac-6249002c473d/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd19-eea1-74e5-bfac-6249002c473d.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "snmechanicalhvac.com"
+      },
+      "page": {
+        "url": "snmechanicalhvac.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.snmechanicalhvac.com",
+      "apexDomain": "snmechanicalhvac.com",
+      "time": "2026-09-23T07:10:10.487Z",
+      "uuid": "01a0cd19-9571-704b-9fb2-32cdb5f3c067",
+      "url": "http://www.snmechanicalhvac.com/"
+    },
+    "stats": {
+      "uniqIPs": 9,
+      "uniqCountries": 3,
+      "dataLength": 3018266,
+      "encodedDataLength": 1896677,
+      "requests": 52
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "141.193.213.11",
+      "apexDomainAgeDays": 2359,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "HVAC Company in Westminster, CO | S&N Mechanical",
+      "url": "https://www.snmechanicalhvac.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 30,
+      "domainAgeDays": 2107,
+      "tlsValidFrom": "2026-08-24T00:05:57.000Z",
+      "domain": "www.snmechanicalhvac.com",
+      "apexDomain": "snmechanicalhvac.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd19-9571-704b-9fb2-32cdb5f3c067",
+    "_score": null,
+    "sort": [
+      1790147410487,
+      "01a0cd19-9571-704b-9fb2-32cdb5f3c067"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd19-9571-704b-9fb2-32cdb5f3c067/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd19-9571-704b-9fb2-32cdb5f3c067.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "nanofotonica.it"
+      },
+      "page": {
+        "url": "nanofotonica.it"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.nanofotonica.it",
+      "apexDomain": "nanofotonica.it",
+      "time": "2026-09-23T07:08:38.900Z",
+      "uuid": "01a0cd18-279a-7470-b6df-dd5c31cd53a6",
+      "url": "http://www.nanofotonica.it/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 4,
+      "dataLength": 552396,
+      "encodedDataLength": 395506,
+      "requests": 15
+    },
+    "page": {
+      "country": "IT",
+      "server": "aruba-proxy",
+      "redirected": "https-only",
+      "ip": "89.46.106.29",
+      "apexDomainAgeDays": 3944,
+      "mimeType": "text/html",
+      "title": "nanofotonica",
+      "url": "https://www.nanofotonica.it/",
+      "tlsValidDays": 198,
+      "tlsAgeDays": 108,
+      "ptr": "webx1148.aruba.it",
+      "domainAgeDays": 621,
+      "tlsValidFrom": "2026-06-07T03:36:37.000Z",
+      "domain": "www.nanofotonica.it",
+      "apexDomain": "nanofotonica.it",
+      "asnname": "ARUBA-ASN Aruba S.p.A., IT",
+      "asn": "AS31034",
+      "tlsIssuer": "Actalis Domain Validation Server CA G3",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd18-279a-7470-b6df-dd5c31cd53a6",
+    "_score": null,
+    "sort": [
+      1790147318900,
+      "01a0cd18-279a-7470-b6df-dd5c31cd53a6"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd18-279a-7470-b6df-dd5c31cd53a6/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd18-279a-7470-b6df-dd5c31cd53a6.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "lambayecano.com"
+      },
+      "page": {
+        "url": "lambayecano.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.lambayecano.com",
+      "apexDomain": "lambayecano.com",
+      "time": "2026-09-23T07:08:17.168Z",
+      "uuid": "01a0cd17-ccc6-7030-8fb6-fb45530bef1a",
+      "url": "http://www.lambayecano.com/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 34173962,
+      "encodedDataLength": 33304227,
+      "requests": 65
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "75.119.200.54",
+      "apexDomainAgeDays": 1487,
+      "language": "es",
+      "mimeType": "text/html",
+      "title": "Productos Lambayecano – Industria del dulce Lambayecano, lo auténtico aún existe",
+      "url": "https://www.lambayecano.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 43,
+      "ptr": "apache2-moon.pdx1-shared-a1-24.dreamhost.com",
+      "domainAgeDays": 1487,
+      "tlsValidFrom": "2026-08-10T14:07:37.000Z",
+      "domain": "www.lambayecano.com",
+      "apexDomain": "lambayecano.com",
+      "asnname": "DREAMHOST-AS - New Dream Network, LLC, US",
+      "asn": "AS26347",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd17-ccc6-7030-8fb6-fb45530bef1a",
+    "_score": null,
+    "sort": [
+      1790147297168,
+      "01a0cd17-ccc6-7030-8fb6-fb45530bef1a"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd17-ccc6-7030-8fb6-fb45530bef1a/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd17-ccc6-7030-8fb6-fb45530bef1a.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "fairmounthomestaging.com"
+      },
+      "page": {
+        "url": "fairmounthomestaging.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.fairmounthomestaging.com",
+      "apexDomain": "fairmounthomestaging.com",
+      "time": "2026-09-23T07:07:49.793Z",
+      "uuid": "01a0cd17-71c6-7604-8d7b-bdc8f065b800",
+      "url": "http://www.fairmounthomestaging.com/"
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 3,
+      "dataLength": 590575,
+      "encodedDataLength": 349925,
+      "requests": 38
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "162.241.225.81",
+      "apexDomainAgeDays": 2725,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": " ",
+      "url": "https://www.fairmounthomestaging.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 46,
+      "ptr": "box5249.bluehost.com",
+      "domainAgeDays": 2725,
+      "tlsValidFrom": "2026-08-07T11:18:54.000Z",
+      "domain": "www.fairmounthomestaging.com",
+      "apexDomain": "fairmounthomestaging.com",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd17-71c6-7604-8d7b-bdc8f065b800",
+    "_score": null,
+    "sort": [
+      1790147269793,
+      "01a0cd17-71c6-7604-8d7b-bdc8f065b800"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd17-71c6-7604-8d7b-bdc8f065b800/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd17-71c6-7604-8d7b-bdc8f065b800.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bildhochdrei.at"
+      },
+      "page": {
+        "url": "bildhochdrei.at"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.bildhochdrei.at",
+      "apexDomain": "bildhochdrei.at",
+      "time": "2026-09-23T07:07:05.087Z",
+      "uuid": "01a0cd16-bd65-772d-8a2e-f5a90e50eded",
+      "url": "http://www.bildhochdrei.at/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 11690206,
+      "encodedDataLength": 4949030,
+      "requests": 155
+    },
+    "page": {
+      "country": "DE",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "2001:8d8:100f:f000::200",
+      "apexDomainAgeDays": 2310,
+      "language": "de",
+      "mimeType": "text/html",
+      "title": "Bild Hoch Drei | Fotografie und Videografie Salzburg – Hochzeitsfotografie, Businessfotografie, Filmproduktion",
+      "url": "https://www.bildhochdrei.at/",
+      "tlsValidDays": 379,
+      "tlsAgeDays": 329,
+      "domainAgeDays": 3141,
+      "tlsValidFrom": "2025-10-29T00:00:00.000Z",
+      "domain": "www.bildhochdrei.at",
+      "apexDomain": "bildhochdrei.at",
+      "asnname": "IONOS-AS IONOS SE, DE",
+      "asn": "AS8560",
+      "tlsIssuer": "Sectigo Public Server Authentication CA DV R36",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd16-bd65-772d-8a2e-f5a90e50eded",
+    "_score": null,
+    "sort": [
+      1790147225087,
+      "01a0cd16-bd65-772d-8a2e-f5a90e50eded"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd16-bd65-772d-8a2e-f5a90e50eded/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd16-bd65-772d-8a2e-f5a90e50eded.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "tvrepair.ae"
+      },
+      "page": {
+        "url": "tvrepair.ae"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "tvrepair.ae",
+      "apexDomain": "tvrepair.ae",
+      "time": "2026-09-23T07:06:30.415Z",
+      "uuid": "01a0cd16-36a4-73df-9427-d299fba3db31",
+      "url": "http://tvrepair.ae/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 4,
+      "dataLength": 4160995,
+      "encodedDataLength": 2911739,
+      "requests": 89
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "162.214.80.109",
+      "apexDomainAgeDays": 2062,
+      "mimeType": "text/html",
+      "title": "TV Repair Dubai | TV Repair shop | tv repair near me | 0555861100",
+      "url": "https://tvrepair.ae/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 47,
+      "ptr": "sh044.webhostingservices.com",
+      "domainAgeDays": 2062,
+      "tlsValidFrom": "2026-08-06T18:18:50.000Z",
+      "domain": "tvrepair.ae",
+      "apexDomain": "tvrepair.ae",
+      "asnname": "OIS1 - Oso Grande IP Services, LLC, US",
+      "asn": "AS26337",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd16-36a4-73df-9427-d299fba3db31",
+    "_score": null,
+    "sort": [
+      1790147190415,
+      "01a0cd16-36a4-73df-9427-d299fba3db31"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd16-36a4-73df-9427-d299fba3db31/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd16-36a4-73df-9427-d299fba3db31.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "trueform.cn"
+      },
+      "page": {
+        "url": "trueform.cn"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "trueform.cn",
+      "apexDomain": "trueform.cn",
+      "time": "2026-09-23T07:05:33.249Z",
+      "uuid": "01a0cd14-fc22-71b3-bda2-67995712d0e8",
+      "url": "http://trueform.cn/"
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 3,
+      "dataLength": 725010,
+      "encodedDataLength": 276550,
+      "requests": 41
+    },
+    "page": {
+      "country": "HK",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "103.210.237.104",
+      "apexDomainAgeDays": 246,
+      "language": "zh",
+      "mimeType": "text/html",
+      "title": "搜狐旅游网",
+      "url": "https://trueform.cn/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 7,
+      "domainAgeDays": 246,
+      "tlsValidFrom": "2026-09-15T11:44:47.000Z",
+      "domain": "trueform.cn",
+      "apexDomain": "trueform.cn",
+      "asnname": "YISUCLOUDLTD-HK - YISU CLOUD LTD, HK",
+      "asn": "AS142403",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd14-fc22-71b3-bda2-67995712d0e8",
+    "_score": null,
+    "sort": [
+      1790147133249,
+      "01a0cd14-fc22-71b3-bda2-67995712d0e8"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd14-fc22-71b3-bda2-67995712d0e8/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd14-fc22-71b3-bda2-67995712d0e8.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "taazaproducts.com"
+      },
+      "page": {
+        "url": "taazaproducts.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "taazaproducts.com",
+      "apexDomain": "taazaproducts.com",
+      "time": "2026-09-23T07:04:37.087Z",
+      "uuid": "01a0cd14-1f76-737f-989e-c084e6082073",
+      "url": "http://taazaproducts.com/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 5,
+      "dataLength": 32372052,
+      "encodedDataLength": 21685686,
+      "requests": 138
+    },
+    "page": {
+      "country": "PK",
+      "server": "Apache/2",
+      "redirected": "https-only",
+      "ip": "45.64.182.182",
+      "apexDomainAgeDays": 3544,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Taaza Cooking Oil & Banaspati – Taaza Main Hi Mazaa Hai",
+      "url": "https://taazaproducts.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 3,
+      "domainAgeDays": 3544,
+      "tlsValidFrom": "2026-09-19T18:15:42.000Z",
+      "domain": "taazaproducts.com",
+      "apexDomain": "taazaproducts.com",
+      "asnname": "ASN-NCKHI-AP - NetSol Connect, PK",
+      "asn": "AS17539",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd14-1f76-737f-989e-c084e6082073",
+    "_score": null,
+    "sort": [
+      1790147077087,
+      "01a0cd14-1f76-737f-989e-c084e6082073"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd14-1f76-737f-989e-c084e6082073/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd14-1f76-737f-989e-c084e6082073.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "supwithwade.com"
+      },
+      "page": {
+        "url": "supwithwade.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "supwithwade.com",
+      "apexDomain": "supwithwade.com",
+      "time": "2026-09-23T07:03:48.197Z",
+      "uuid": "01a0cd13-c154-7138-af47-5a4f3934aa43",
+      "url": "http://supwithwade.com/"
+    },
+    "stats": {
+      "uniqIPs": 16,
+      "uniqCountries": 4,
+      "dataLength": 2886961,
+      "encodedDataLength": 1389577,
+      "requests": 61
+    },
+    "page": {
+      "country": "US",
+      "server": "Sucuri/Cloudproxy",
+      "redirected": "https-only",
+      "ip": "192.124.249.13",
+      "apexDomainAgeDays": 3064,
+      "mimeType": "text/html",
+      "title": "Home - SUP WITH WADE",
+      "url": "https://supwithwade.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 4,
+      "ptr": "cloudproxy10013.sucuri.net",
+      "domainAgeDays": 3064,
+      "tlsValidFrom": "2026-09-18T20:33:28.000Z",
+      "domain": "supwithwade.com",
+      "apexDomain": "supwithwade.com",
+      "asnname": "SUCURI-SEC - Sucuri, US",
+      "asn": "AS30148",
+      "tlsIssuer": "GoDaddy TLS Intermediate CA DV - R1v1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd13-c154-7138-af47-5a4f3934aa43",
+    "_score": null,
+    "sort": [
+      1790147028197,
+      "01a0cd13-c154-7138-af47-5a4f3934aa43"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd13-c154-7138-af47-5a4f3934aa43/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd13-c154-7138-af47-5a4f3934aa43.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "sudewi.com"
+      },
+      "page": {
+        "url": "sudewi.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "sudewi.com",
+      "apexDomain": "sudewi.com",
+      "time": "2026-09-23T07:03:26.806Z",
+      "uuid": "01a0cd13-5c39-7259-bae5-5e1dd8742096",
+      "url": "http://sudewi.com/"
+    },
+    "stats": {
+      "uniqIPs": 23,
+      "uniqCountries": 4,
+      "dataLength": 9547510,
+      "encodedDataLength": 3041320,
+      "requests": 147
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "31.97.213.63",
+      "apexDomainAgeDays": 2144,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "SUDEWI – Smarter Health Starts Here",
+      "url": "https://sudewi.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 25,
+      "ptr": "srv1148539.hstgr.cloud",
+      "domainAgeDays": 2144,
+      "tlsValidFrom": "2026-08-28T07:37:48.000Z",
+      "domain": "sudewi.com",
+      "apexDomain": "sudewi.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd13-5c39-7259-bae5-5e1dd8742096",
+    "_score": null,
+    "sort": [
+      1790147006806,
+      "01a0cd13-5c39-7259-bae5-5e1dd8742096"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd13-5c39-7259-bae5-5e1dd8742096/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd13-5c39-7259-bae5-5e1dd8742096.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "prontohandymanllc.com"
+      },
+      "page": {
+        "url": "prontohandymanllc.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "prontohandymanllc.com",
+      "apexDomain": "prontohandymanllc.com",
+      "time": "2026-09-23T07:02:06.282Z",
+      "uuid": "01a0cd12-3193-702e-b050-8122fbf97409",
+      "url": "http://prontohandymanllc.com/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 4,
+      "dataLength": 11200963,
+      "encodedDataLength": 9880167,
+      "requests": 124
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "50.6.154.46",
+      "apexDomainAgeDays": 1316,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Pronto Handyman LLC – Rental Property Maintenance Services",
+      "url": "https://prontohandymanllc.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 45,
+      "ptr": "50-6-154-46.unifiedlayer.com",
+      "domainAgeDays": 1316,
+      "tlsValidFrom": "2026-08-09T00:52:09.000Z",
+      "domain": "prontohandymanllc.com",
+      "apexDomain": "prontohandymanllc.com",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd12-3193-702e-b050-8122fbf97409",
+    "_score": null,
+    "sort": [
+      1790146926282,
+      "01a0cd12-3193-702e-b050-8122fbf97409"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd12-3193-702e-b050-8122fbf97409/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd12-3193-702e-b050-8122fbf97409.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "skill-cert.com"
+      },
+      "page": {
+        "url": "skill-cert.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "skill-cert.com",
+      "apexDomain": "skill-cert.com",
+      "time": "2026-09-23T07:01:37.598Z",
+      "uuid": "01a0cd11-a45f-7490-8dc8-45e8cbb80e2a",
+      "url": "http://skill-cert.com/"
+    },
+    "stats": {
+      "uniqIPs": 18,
+      "uniqCountries": 5,
+      "dataLength": 7007155,
+      "encodedDataLength": 3005641,
+      "requests": 215
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "141.193.213.20",
+      "apexDomainAgeDays": 992,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "SkillCert – Future Ready Skills Certified",
+      "url": "https://skill-cert.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 25,
+      "domainAgeDays": 992,
+      "tlsValidFrom": "2026-08-28T18:47:12.000Z",
+      "domain": "skill-cert.com",
+      "apexDomain": "skill-cert.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd11-a45f-7490-8dc8-45e8cbb80e2a",
+    "_score": null,
+    "sort": [
+      1790146897598,
+      "01a0cd11-a45f-7490-8dc8-45e8cbb80e2a"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd11-a45f-7490-8dc8-45e8cbb80e2a/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd11-a45f-7490-8dc8-45e8cbb80e2a.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "pachocreate.com"
+      },
+      "page": {
+        "url": "pachocreate.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "pachocreate.com",
+      "apexDomain": "pachocreate.com",
+      "time": "2026-09-23T07:00:20.245Z",
+      "uuid": "01a0cd10-9acf-76d9-a5c9-972f963df1fb",
+      "url": "http://pachocreate.com/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 4,
+      "dataLength": 1778009,
+      "encodedDataLength": 1222954,
+      "requests": 31
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.152",
+      "apexDomainAgeDays": 537,
+      "mimeType": "text/html",
+      "title": "Pacho Create – Pacho Create",
+      "url": "https://pachocreate.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 37,
+      "ptr": "152.0.153.160.host.secureserver.net",
+      "domainAgeDays": 537,
+      "tlsValidFrom": "2026-08-16T17:07:54.000Z",
+      "domain": "pachocreate.com",
+      "apexDomain": "pachocreate.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd10-9acf-76d9-a5c9-972f963df1fb",
+    "_score": null,
+    "sort": [
+      1790146820245,
+      "01a0cd10-9acf-76d9-a5c9-972f963df1fb"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd10-9acf-76d9-a5c9-972f963df1fb/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd10-9acf-76d9-a5c9-972f963df1fb.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "ncoeorg.in"
+      },
+      "page": {
+        "url": "ncoeorg.in"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "ncoeorg.in",
+      "apexDomain": "ncoeorg.in",
+      "time": "2026-09-23T06:59:36.913Z",
+      "uuid": "01a0cd0f-e4f3-72ed-b601-d7e53ee3789c",
+      "url": "http://ncoeorg.in/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 4,
+      "dataLength": 7815988,
+      "encodedDataLength": 3594480,
+      "requests": 182
+    },
+    "page": {
+      "country": "IN",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "2a02:4780:11:1975:0:249c:8f88:2",
+      "apexDomainAgeDays": 138,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "National Council of Open Education",
+      "url": "https://ncoeorg.in/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 18,
+      "domainAgeDays": 138,
+      "tlsValidFrom": "2026-09-04T09:07:00.000Z",
+      "domain": "ncoeorg.in",
+      "apexDomain": "ncoeorg.in",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0f-e4f3-72ed-b601-d7e53ee3789c",
+    "_score": null,
+    "sort": [
+      1790146776913,
+      "01a0cd0f-e4f3-72ed-b601-d7e53ee3789c"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0f-e4f3-72ed-b601-d7e53ee3789c/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0f-e4f3-72ed-b601-d7e53ee3789c.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "muninn.nl"
+      },
+      "page": {
+        "url": "muninn.nl"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "muninn.nl",
+      "apexDomain": "muninn.nl",
+      "time": "2026-09-23T06:59:13.733Z",
+      "uuid": "01a0cd0f-8b09-761d-8937-253a0af15360",
+      "url": "http://muninn.nl/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 5,
+      "dataLength": 1048406,
+      "encodedDataLength": 326015,
+      "requests": 21
+    },
+    "page": {
+      "country": "LT",
+      "server": "hcdn",
+      "redirected": "https-only",
+      "ip": "88.222.222.157",
+      "apexDomainAgeDays": 3448,
+      "mimeType": "text/html",
+      "url": "https://muninn.nl/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 32,
+      "ptr": "88-222-222-157.init.lt",
+      "domainAgeDays": 3448,
+      "tlsValidFrom": "2026-08-21T13:14:31.000Z",
+      "domain": "muninn.nl",
+      "apexDomain": "muninn.nl",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0f-8b09-761d-8937-253a0af15360",
+    "_score": null,
+    "sort": [
+      1790146753733,
+      "01a0cd0f-8b09-761d-8937-253a0af15360"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0f-8b09-761d-8937-253a0af15360/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0f-8b09-761d-8937-253a0af15360.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "mrpiccam.com"
+      },
+      "page": {
+        "url": "mrpiccam.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "mrpiccam.com",
+      "apexDomain": "mrpiccam.com",
+      "time": "2026-09-23T06:58:50.991Z",
+      "uuid": "01a0cd0f-2c38-7418-9644-dd84ae3126b3",
+      "url": "http://mrpiccam.com/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 3,
+      "dataLength": 25186851,
+      "encodedDataLength": 14468304,
+      "requests": 121
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "74.208.236.207",
+      "apexDomainAgeDays": 435,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "MRPicPhotography",
+      "url": "https://mrpiccam.com/",
+      "tlsValidDays": 194,
+      "tlsAgeDays": 24,
+      "ptr": "74-208-236-207.elastic-ssl.ui-r.com",
+      "domainAgeDays": 435,
+      "tlsValidFrom": "2026-08-30T00:00:00.000Z",
+      "domain": "mrpiccam.com",
+      "apexDomain": "mrpiccam.com",
+      "asnname": "IONOS-AS IONOS SE, DE",
+      "asn": "AS8560",
+      "tlsIssuer": "Sectigo Public Server Authentication CA DV R36",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0f-2c38-7418-9644-dd84ae3126b3",
+    "_score": null,
+    "sort": [
+      1790146730991,
+      "01a0cd0f-2c38-7418-9644-dd84ae3126b3"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0f-2c38-7418-9644-dd84ae3126b3/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0f-2c38-7418-9644-dd84ae3126b3.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "mordemsanat.com.tr"
+      },
+      "page": {
+        "url": "mordemsanat.com.tr"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "mordemsanat.com.tr",
+      "apexDomain": "mordemsanat.com.tr",
+      "time": "2026-09-23T06:58:23.412Z",
+      "uuid": "01a0cd0e-d23c-7488-9c37-25d30ea2509d",
+      "url": "http://mordemsanat.com.tr/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 7376861,
+      "encodedDataLength": 6442754,
+      "requests": 34
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "188.114.96.3",
+      "apexDomainAgeDays": 1584,
+      "mimeType": "text/html",
+      "title": "Sanat Huner Art",
+      "url": "https://mordemsanat.com.tr/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 39,
+      "domainAgeDays": 1584,
+      "tlsValidFrom": "2026-08-15T06:29:00.000Z",
+      "domain": "mordemsanat.com.tr",
+      "apexDomain": "mordemsanat.com.tr",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0e-d23c-7488-9c37-25d30ea2509d",
+    "_score": null,
+    "sort": [
+      1790146703412,
+      "01a0cd0e-d23c-7488-9c37-25d30ea2509d"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0e-d23c-7488-9c37-25d30ea2509d/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0e-d23c-7488-9c37-25d30ea2509d.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "makerman.in"
+      },
+      "page": {
+        "url": "makerman.in"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "makerman.in",
+      "apexDomain": "makerman.in",
+      "time": "2026-09-23T06:57:54.605Z",
+      "uuid": "01a0cd0e-4f05-767b-b9d0-2300d743ad06",
+      "url": "http://makerman.in/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 4,
+      "dataLength": 8872456,
+      "encodedDataLength": 2829336,
+      "requests": 156
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "162.214.80.127",
+      "apexDomainAgeDays": 2493,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Makerman – Making Imagination Possible Kitchens | Wardrobes | Vanities – Making Imagination Possible",
+      "url": "https://makerman.in/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 48,
+      "ptr": "sh049.webhostingservices.com",
+      "domainAgeDays": 2493,
+      "tlsValidFrom": "2026-08-06T02:56:11.000Z",
+      "domain": "makerman.in",
+      "apexDomain": "makerman.in",
+      "asnname": "OIS1 - Oso Grande IP Services, LLC, US",
+      "asn": "AS26337",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0e-4f05-767b-b9d0-2300d743ad06",
+    "_score": null,
+    "sort": [
+      1790146674605,
+      "01a0cd0e-4f05-767b-b9d0-2300d743ad06"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0e-4f05-767b-b9d0-2300d743ad06/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0e-4f05-767b-b9d0-2300d743ad06.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "lms-teckpia.com"
+      },
+      "page": {
+        "url": "lms-teckpia.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "lms-teckpia.com",
+      "apexDomain": "lms-teckpia.com",
+      "time": "2026-09-23T06:57:27.916Z",
+      "uuid": "01a0cd0d-cba7-7272-99bc-7f2d82876faa",
+      "url": "http://lms-teckpia.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 4,
+      "dataLength": 29927117,
+      "encodedDataLength": 3574486,
+      "requests": 139
+    },
+    "page": {
+      "country": "FR",
+      "redirected": "https-only",
+      "ip": "2a00:7ee0:8:0:3:3264:0:1d9",
+      "apexDomainAgeDays": 563,
+      "language": "fr",
+      "mimeType": "text/html",
+      "title": "Djika Migration – L'excellence de la formation beauté",
+      "url": "https://lms-teckpia.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 20,
+      "domainAgeDays": 563,
+      "tlsValidFrom": "2026-09-03T02:47:36.000Z",
+      "domain": "lms-teckpia.com",
+      "apexDomain": "lms-teckpia.com",
+      "asnname": "LWS Groupe LWS SARL, FR",
+      "asn": "AS210403",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0d-cba7-7272-99bc-7f2d82876faa",
+    "_score": null,
+    "sort": [
+      1790146647916,
+      "01a0cd0d-cba7-7272-99bc-7f2d82876faa"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0d-cba7-7272-99bc-7f2d82876faa/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0d-cba7-7272-99bc-7f2d82876faa.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "lomboktourbooking.com"
+      },
+      "page": {
+        "url": "lomboktourbooking.com/id"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "lomboktourbooking.com",
+      "apexDomain": "lomboktourbooking.com",
+      "time": "2026-09-23T06:56:53.196Z",
+      "uuid": "01a0cd0d-6b64-75ce-a5b5-a115de740067",
+      "url": "http://lomboktourbooking.com/"
+    },
+    "stats": {
+      "uniqIPs": 19,
+      "uniqCountries": 5,
+      "dataLength": 13596958,
+      "encodedDataLength": 7022051,
+      "requests": 161
+    },
+    "page": {
+      "country": "DE",
+      "server": "hcdn",
+      "redirected": "same-domain",
+      "ip": "2a02:4780:44:9a1d:add2:7deb:5dec:8e21",
+      "apexDomainAgeDays": 3647,
+      "language": "id",
+      "mimeType": "text/html",
+      "title": "Paket Wisata Lombok 2026 Harga Terbaik",
+      "url": "https://lomboktourbooking.com/id/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 57,
+      "domainAgeDays": 3647,
+      "tlsValidFrom": "2026-07-27T22:41:08.000Z",
+      "domain": "lomboktourbooking.com",
+      "apexDomain": "lomboktourbooking.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0d-6b64-75ce-a5b5-a115de740067",
+    "_score": null,
+    "sort": [
+      1790146613196,
+      "01a0cd0d-6b64-75ce-a5b5-a115de740067"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0d-6b64-75ce-a5b5-a115de740067/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0d-6b64-75ce-a5b5-a115de740067.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "latacoyota.com"
+      },
+      "page": {
+        "url": "latacoyota.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "latacoyota.com",
+      "apexDomain": "latacoyota.com",
+      "time": "2026-09-23T06:56:30.904Z",
+      "uuid": "01a0cd0d-11f3-778f-bde2-7889fd1d0aa8",
+      "url": "http://latacoyota.com/"
+    },
+    "stats": {
+      "uniqIPs": 13,
+      "uniqCountries": 4,
+      "dataLength": 2831745,
+      "encodedDataLength": 2303502,
+      "requests": 34
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.86",
+      "apexDomainAgeDays": 930,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "La Tacoyota Food Truck",
+      "url": "https://latacoyota.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 29,
+      "ptr": "86.0.153.160.host.secureserver.net",
+      "domainAgeDays": 930,
+      "tlsValidFrom": "2026-08-24T13:30:47.000Z",
+      "domain": "latacoyota.com",
+      "apexDomain": "latacoyota.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0d-11f3-778f-bde2-7889fd1d0aa8",
+    "_score": null,
+    "sort": [
+      1790146590904,
+      "01a0cd0d-11f3-778f-bde2-7889fd1d0aa8"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0d-11f3-778f-bde2-7889fd1d0aa8/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0d-11f3-778f-bde2-7889fd1d0aa8.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "klanbaatnagger.dk"
+      },
+      "page": {
+        "url": "klanbaatnagger.dk"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "klanbaatnagger.dk",
+      "apexDomain": "klanbaatnagger.dk",
+      "time": "2026-09-23T06:56:02.235Z",
+      "uuid": "01a0cd0c-4072-70ad-b97e-0f1e8eacc9e4",
+      "url": "http://klanbaatnagger.dk/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 5,
+      "dataLength": 812005,
+      "encodedDataLength": 331221,
+      "requests": 33
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "188.114.97.3",
+      "apexDomainAgeDays": 3674,
+      "mimeType": "text/html",
+      "title": "Klan Båtnagger",
+      "url": "https://klanbaatnagger.dk/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 23,
+      "domainAgeDays": 3674,
+      "tlsValidFrom": "2026-08-31T05:35:08.000Z",
+      "domain": "klanbaatnagger.dk",
+      "apexDomain": "klanbaatnagger.dk",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0c-4072-70ad-b97e-0f1e8eacc9e4",
+    "_score": null,
+    "sort": [
+      1790146562235,
+      "01a0cd0c-4072-70ad-b97e-0f1e8eacc9e4"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0c-4072-70ad-b97e-0f1e8eacc9e4/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0c-4072-70ad-b97e-0f1e8eacc9e4.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "innoventservices.com"
+      },
+      "page": {
+        "url": "innoventservices.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "innoventservices.com",
+      "apexDomain": "innoventservices.com",
+      "time": "2026-09-23T06:54:31.089Z",
+      "uuid": "01a0cd0b-40f9-7749-92d1-ac5eb06947c8",
+      "url": "http://innoventservices.com/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 2215222,
+      "encodedDataLength": 1241679,
+      "requests": 85
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "162.241.225.80",
+      "apexDomainAgeDays": 1555,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home - Innovent Services",
+      "url": "https://innoventservices.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 34,
+      "ptr": "162-241-225-80.unifiedlayer.com",
+      "domainAgeDays": 1555,
+      "tlsValidFrom": "2026-08-19T17:59:24.000Z",
+      "domain": "innoventservices.com",
+      "apexDomain": "innoventservices.com",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0b-40f9-7749-92d1-ac5eb06947c8",
+    "_score": null,
+    "sort": [
+      1790146471089,
+      "01a0cd0b-40f9-7749-92d1-ac5eb06947c8"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0b-40f9-7749-92d1-ac5eb06947c8/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0b-40f9-7749-92d1-ac5eb06947c8.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "hoshizouen.co.jp"
+      },
+      "page": {
+        "url": "hoshizouen.co.jp"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "hoshizouen.co.jp",
+      "apexDomain": "hoshizouen.co.jp",
+      "time": "2026-09-23T06:54:07.487Z",
+      "uuid": "01a0cd0a-e2af-76ef-b64a-2bad838aa67c",
+      "url": "http://hoshizouen.co.jp/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 3,
+      "dataLength": 21266570,
+      "encodedDataLength": 1879593,
+      "requests": 96
+    },
+    "page": {
+      "country": "JP",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "60.43.226.54",
+      "apexDomainAgeDays": 1003,
+      "language": "ja",
+      "mimeType": "text/html",
+      "title": "星造園土木株式会社｜宮城県仙台市｜ISO9001・みちのくEMS取得",
+      "url": "https://hoshizouen.co.jp/",
+      "tlsValidDays": 88,
+      "tlsAgeDays": 48,
+      "ptr": "hoshizouen.co.jp",
+      "domainAgeDays": 1003,
+      "tlsValidFrom": "2026-08-05T07:38:08.000Z",
+      "domain": "hoshizouen.co.jp",
+      "apexDomain": "hoshizouen.co.jp",
+      "asnname": "OCN - NTT DOCOMO BUSINESS,Inc., JP",
+      "asn": "AS4713",
+      "tlsIssuer": "JPRS DV RSA CA 2024 G1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd0a-e2af-76ef-b64a-2bad838aa67c",
+    "_score": null,
+    "sort": [
+      1790146447487,
+      "01a0cd0a-e2af-76ef-b64a-2bad838aa67c"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd0a-e2af-76ef-b64a-2bad838aa67c/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd0a-e2af-76ef-b64a-2bad838aa67c.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "geneparks.com"
+      },
+      "page": {
+        "url": "geneparks.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "geneparks.com",
+      "apexDomain": "geneparks.com",
+      "time": "2026-09-23T06:52:46.690Z",
+      "uuid": "01a0cd09-ae3f-763b-8525-6a640724cdba",
+      "url": "http://geneparks.com/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 4,
+      "dataLength": 3223962,
+      "encodedDataLength": 1456530,
+      "requests": 112
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.125",
+      "apexDomainAgeDays": 3280,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Parks Insurance – Protect What Matters Most",
+      "url": "https://geneparks.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 37,
+      "ptr": "125.0.153.160.host.secureserver.net",
+      "domainAgeDays": 3280,
+      "tlsValidFrom": "2026-08-16T18:24:42.000Z",
+      "domain": "geneparks.com",
+      "apexDomain": "geneparks.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd09-ae3f-763b-8525-6a640724cdba",
+    "_score": null,
+    "sort": [
+      1790146366690,
+      "01a0cd09-ae3f-763b-8525-6a640724cdba"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd09-ae3f-763b-8525-6a640724cdba/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd09-ae3f-763b-8525-6a640724cdba.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "flyersholding.com"
+      },
+      "page": {
+        "url": "flyersholding.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "flyersholding.com",
+      "apexDomain": "flyersholding.com",
+      "time": "2026-09-23T06:52:01.549Z",
+      "uuid": "01a0cd08-fdcc-7201-bd15-6ff84fbc6a17",
+      "url": "http://flyersholding.com/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 3,
+      "dataLength": 594265,
+      "encodedDataLength": 434757,
+      "requests": 20
+    },
+    "page": {
+      "country": "US",
+      "redirected": "https-only",
+      "ip": "66.96.147.205",
+      "apexDomainAgeDays": 2277,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Highflyers Holding Limited – Stockist of Structural Steel",
+      "url": "https://flyersholding.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 10,
+      "ptr": "205.147.96.66.static.eigbox.net",
+      "domainAgeDays": 2277,
+      "tlsValidFrom": "2026-09-12T18:03:08.000Z",
+      "domain": "flyersholding.com",
+      "apexDomain": "flyersholding.com",
+      "asnname": "BIZLAND-SD - Newfold Digital, Inc., US",
+      "asn": "AS29873",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd08-fdcc-7201-bd15-6ff84fbc6a17",
+    "_score": null,
+    "sort": [
+      1790146321549,
+      "01a0cd08-fdcc-7201-bd15-6ff84fbc6a17"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd08-fdcc-7201-bd15-6ff84fbc6a17/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd08-fdcc-7201-bd15-6ff84fbc6a17.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "evisa-e-govkg.com"
+      },
+      "page": {
+        "url": "evisa-e-govkg.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "evisa-e-govkg.com",
+      "apexDomain": "evisa-e-govkg.com",
+      "time": "2026-09-23T06:51:39.836Z",
+      "uuid": "01a0cd08-a031-71e8-bef2-811338da1f4e",
+      "url": "http://evisa-e-govkg.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 6337265,
+      "encodedDataLength": 1821672,
+      "requests": 75
+    },
+    "page": {
+      "country": "US",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "2a02:4780:b:967:0:848:2799:3",
+      "apexDomainAgeDays": 978,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "evisa-e-govkg.com",
+      "url": "https://evisa-e-govkg.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 6,
+      "domainAgeDays": 978,
+      "tlsValidFrom": "2026-09-16T17:11:05.000Z",
+      "domain": "evisa-e-govkg.com",
+      "apexDomain": "evisa-e-govkg.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd08-a031-71e8-bef2-811338da1f4e",
+    "_score": null,
+    "sort": [
+      1790146299836,
+      "01a0cd08-a031-71e8-bef2-811338da1f4e"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd08-a031-71e8-bef2-811338da1f4e/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd08-a031-71e8-bef2-811338da1f4e.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "davariyabrothers.com"
+      },
+      "page": {
+        "url": "davariyabrothers.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "davariyabrothers.com",
+      "apexDomain": "davariyabrothers.com",
+      "time": "2026-09-23T06:50:45.599Z",
+      "uuid": "01a0cd07-9d2c-71da-866c-057bcd897ec0",
+      "url": "http://davariyabrothers.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 6831715,
+      "encodedDataLength": 5659266,
+      "requests": 55
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "104.21.92.252",
+      "apexDomainAgeDays": 3020,
+      "mimeType": "text/html",
+      "title": "Davariya Brothers",
+      "url": "https://davariyabrothers.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 12,
+      "domainAgeDays": 3020,
+      "tlsValidFrom": "2026-09-10T23:45:32.000Z",
+      "domain": "davariyabrothers.com",
+      "apexDomain": "davariyabrothers.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd07-9d2c-71da-866c-057bcd897ec0",
+    "_score": null,
+    "sort": [
+      1790146245599,
+      "01a0cd07-9d2c-71da-866c-057bcd897ec0"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd07-9d2c-71da-866c-057bcd897ec0/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd07-9d2c-71da-866c-057bcd897ec0.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "ckquilting.com"
+      },
+      "page": {
+        "url": "ckquilting.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "ckquilting.com",
+      "apexDomain": "ckquilting.com",
+      "time": "2026-09-23T06:50:10.809Z",
+      "uuid": "01a0cd07-435b-7239-8a5b-6a7b5a85754c",
+      "url": "http://ckquilting.com/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 2,
+      "dataLength": 4782239,
+      "encodedDataLength": 1719459,
+      "requests": 171
+    },
+    "page": {
+      "country": "US",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "145.223.105.178",
+      "apexDomainAgeDays": 1202,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home -",
+      "url": "https://ckquilting.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 58,
+      "domainAgeDays": 1202,
+      "tlsValidFrom": "2026-07-26T10:35:16.000Z",
+      "domain": "ckquilting.com",
+      "apexDomain": "ckquilting.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd07-435b-7239-8a5b-6a7b5a85754c",
+    "_score": null,
+    "sort": [
+      1790146210809,
+      "01a0cd07-435b-7239-8a5b-6a7b5a85754c"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd07-435b-7239-8a5b-6a7b5a85754c/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd07-435b-7239-8a5b-6a7b5a85754c.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "cutfromvalor.com"
+      },
+      "page": {
+        "url": "cutfromvalor.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "cutfromvalor.com",
+      "apexDomain": "cutfromvalor.com",
+      "time": "2026-09-23T06:49:47.854Z",
+      "uuid": "01a0cd06-e987-770f-a910-9c13d63770a4",
+      "url": "http://cutfromvalor.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 4247221,
+      "encodedDataLength": 2059539,
+      "requests": 67
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.167",
+      "apexDomainAgeDays": 574,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Cut From Valor | Patriot Apparel",
+      "url": "https://cutfromvalor.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 39,
+      "ptr": "167.0.153.160.host.secureserver.net",
+      "domainAgeDays": 574,
+      "tlsValidFrom": "2026-08-14T21:51:35.000Z",
+      "domain": "cutfromvalor.com",
+      "apexDomain": "cutfromvalor.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd06-e987-770f-a910-9c13d63770a4",
+    "_score": null,
+    "sort": [
+      1790146187854,
+      "01a0cd06-e987-770f-a910-9c13d63770a4"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd06-e987-770f-a910-9c13d63770a4/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd06-e987-770f-a910-9c13d63770a4.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bunnybathco.com"
+      },
+      "page": {
+        "url": "bunnybathco.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "bunnybathco.com",
+      "apexDomain": "bunnybathco.com",
+      "time": "2026-09-23T06:49:24.581Z",
+      "uuid": "01a0cd06-8d1c-72a8-849f-2103ad16e555",
+      "url": "http://bunnybathco.com/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 4,
+      "dataLength": 10003627,
+      "encodedDataLength": 8281035,
+      "requests": 100
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.78",
+      "apexDomainAgeDays": 316,
+      "mimeType": "text/html",
+      "title": "Home",
+      "url": "https://bunnybathco.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 32,
+      "ptr": "78.0.153.160.host.secureserver.net",
+      "domainAgeDays": 316,
+      "tlsValidFrom": "2026-08-21T18:51:59.000Z",
+      "domain": "bunnybathco.com",
+      "apexDomain": "bunnybathco.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd06-8d1c-72a8-849f-2103ad16e555",
+    "_score": null,
+    "sort": [
+      1790146164581,
+      "01a0cd06-8d1c-72a8-849f-2103ad16e555"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd06-8d1c-72a8-849f-2103ad16e555/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd06-8d1c-72a8-849f-2103ad16e555.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bcvt.edu.vn"
+      },
+      "page": {
+        "url": "bcvt.edu.vn"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "bcvt.edu.vn",
+      "apexDomain": "bcvt.edu.vn",
+      "time": "2026-09-23T06:47:39.346Z",
+      "uuid": "01a0cd04-e169-761f-b7b6-9815343bb39f",
+      "url": "http://bcvt.edu.vn/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 4,
+      "dataLength": 16782931,
+      "encodedDataLength": 2034428,
+      "requests": 140
+    },
+    "page": {
+      "country": "VN",
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "redirected": "https-only",
+      "ip": "157.10.186.101",
+      "apexDomainAgeDays": 1409,
+      "language": "vi",
+      "mimeType": "text/html",
+      "title": "Học viện Công nghệ Bưu chính Viễn Thông Hệ đại học từ xa - PTIT E-learning",
+      "url": "https://bcvt.edu.vn/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 17,
+      "domainAgeDays": 1409,
+      "tlsValidFrom": "2026-09-05T12:12:25.000Z",
+      "domain": "bcvt.edu.vn",
+      "apexDomain": "bcvt.edu.vn",
+      "asnname": "FPTCLOUD-AS-VN - FPT Smart Cloud Company Limited, VN",
+      "asn": "AS140766",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd04-e169-761f-b7b6-9815343bb39f",
+    "_score": null,
+    "sort": [
+      1790146059346,
+      "01a0cd04-e169-761f-b7b6-9815343bb39f"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd04-e169-761f-b7b6-9815343bb39f/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd04-e169-761f-b7b6-9815343bb39f.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "angels-of-god.com"
+      },
+      "page": {
+        "url": "angels-of-god.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "angels-of-god.com",
+      "apexDomain": "angels-of-god.com",
+      "time": "2026-09-23T06:47:11.315Z",
+      "uuid": "01a0cd04-83d9-74de-8a21-6e2a9fd3fa0e",
+      "url": "http://angels-of-god.com/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 3,
+      "dataLength": 4063986,
+      "encodedDataLength": 1466423,
+      "requests": 545
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "50.87.172.242",
+      "apexDomainAgeDays": 1477,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "72 Angels List and Their Duties: Gateway to Angelic Power - Angels Of God",
+      "url": "https://angels-of-god.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 5,
+      "ptr": "box2508.bluehost.com",
+      "domainAgeDays": 1477,
+      "tlsValidFrom": "2026-09-17T15:32:33.000Z",
+      "domain": "angels-of-god.com",
+      "apexDomain": "angels-of-god.com",
+      "asnname": "UNIFIEDLAYER-AS-1 - Unified Layer, US",
+      "asn": "AS46606",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd04-83d9-74de-8a21-6e2a9fd3fa0e",
+    "_score": null,
+    "sort": [
+      1790146031315,
+      "01a0cd04-83d9-74de-8a21-6e2a9fd3fa0e"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd04-83d9-74de-8a21-6e2a9fd3fa0e/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd04-83d9-74de-8a21-6e2a9fd3fa0e.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "banvenhadep.net"
+      },
+      "page": {
+        "url": "banvenhadep.net"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "banvenhadep.net",
+      "apexDomain": "banvenhadep.net",
+      "time": "2026-09-23T06:46:46.710Z",
+      "uuid": "01a0cd04-2539-724c-8a9f-2b500f73f5a7",
+      "url": "http://banvenhadep.net/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 6,
+      "dataLength": 3152497,
+      "encodedDataLength": 1875136,
+      "requests": 74
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "2a06:98c1:3121::3",
+      "apexDomainAgeDays": 3676,
+      "language": "fr",
+      "mimeType": "text/html",
+      "title": "1 tin nhắn mới",
+      "url": "https://banvenhadep.net/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 28,
+      "domainAgeDays": 3676,
+      "tlsValidFrom": "2026-08-26T05:42:47.000Z",
+      "domain": "banvenhadep.net",
+      "apexDomain": "banvenhadep.net",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd04-2539-724c-8a9f-2b500f73f5a7",
+    "_score": null,
+    "sort": [
+      1790146006710,
+      "01a0cd04-2539-724c-8a9f-2b500f73f5a7"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd04-2539-724c-8a9f-2b500f73f5a7/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd04-2539-724c-8a9f-2b500f73f5a7.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "aprendec.cl"
+      },
+      "page": {
+        "url": "aprendec.cl"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "aprendec.cl",
+      "apexDomain": "aprendec.cl",
+      "time": "2026-09-23T06:46:24.323Z",
+      "uuid": "01a0cd03-cb0b-7588-b475-b6c9472d8328",
+      "url": "http://aprendec.cl/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 5,
+      "dataLength": 7195098,
+      "encodedDataLength": 3466411,
+      "requests": 197
+    },
+    "page": {
+      "country": "BR",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "108.174.147.156",
+      "apexDomainAgeDays": 480,
+      "mimeType": "text/html",
+      "title": "Aprendec – Educación",
+      "url": "https://aprendec.cl/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 34,
+      "ptr": "108-174-147-156.unifiedlayer.com",
+      "domainAgeDays": 480,
+      "tlsValidFrom": "2026-08-20T02:08:10.000Z",
+      "domain": "aprendec.cl",
+      "apexDomain": "aprendec.cl",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd03-cb0b-7588-b475-b6c9472d8328",
+    "_score": null,
+    "sort": [
+      1790145984323,
+      "01a0cd03-cb0b-7588-b475-b6c9472d8328"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd03-cb0b-7588-b475-b6c9472d8328/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd03-cb0b-7588-b475-b6c9472d8328.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "anukunj.com"
+      },
+      "page": {
+        "url": "anukunj.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "anukunj.com",
+      "apexDomain": "anukunj.com",
+      "time": "2026-09-23T06:46:00.123Z",
+      "uuid": "01a0cd03-6e6f-73ba-8acc-96ddc34bcf51",
+      "url": "http://anukunj.com/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 2,
+      "dataLength": 17831336,
+      "encodedDataLength": 15600051,
+      "requests": 125
+    },
+    "page": {
+      "country": "IN",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "145.79.210.210",
+      "apexDomainAgeDays": 2667,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Anukunj – Luxury in Every Gift",
+      "url": "https://anukunj.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 53,
+      "domainAgeDays": 2667,
+      "tlsValidFrom": "2026-07-31T12:15:21.000Z",
+      "domain": "anukunj.com",
+      "apexDomain": "anukunj.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd03-6e6f-73ba-8acc-96ddc34bcf51",
+    "_score": null,
+    "sort": [
+      1790145960123,
+      "01a0cd03-6e6f-73ba-8acc-96ddc34bcf51"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd03-6e6f-73ba-8acc-96ddc34bcf51/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd03-6e6f-73ba-8acc-96ddc34bcf51.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "allc.asia"
+      },
+      "page": {
+        "url": "allc.asia"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "allc.asia",
+      "apexDomain": "allc.asia",
+      "time": "2026-09-23T06:45:11.800Z",
+      "uuid": "01a0cd02-b4bf-7489-92cc-fa95be0b5dcc",
+      "url": "http://allc.asia/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 3,
+      "dataLength": 11122273,
+      "encodedDataLength": 4236799,
+      "requests": 160
+    },
+    "page": {
+      "country": "LT",
+      "server": "hcdn",
+      "redirected": "https-only",
+      "ip": "84.32.84.225",
+      "apexDomainAgeDays": 3475,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "ALLC – Asia Leaders Learning Community",
+      "url": "https://allc.asia/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 33,
+      "domainAgeDays": 3475,
+      "tlsValidFrom": "2026-08-20T23:07:41.000Z",
+      "domain": "allc.asia",
+      "apexDomain": "allc.asia",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cd02-b4bf-7489-92cc-fa95be0b5dcc",
+    "_score": null,
+    "sort": [
+      1790145911800,
+      "01a0cd02-b4bf-7489-92cc-fa95be0b5dcc"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cd02-b4bf-7489-92cc-fa95be0b5dcc/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cd02-b4bf-7489-92cc-fa95be0b5dcc.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "21-realty.com"
+      },
+      "page": {
+        "url": "21-realty.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "21-realty.com",
+      "apexDomain": "21-realty.com",
+      "time": "2026-09-23T06:16:15.698Z",
+      "uuid": "01a0cce8-3854-76ab-b030-eb2a3bc9aa44",
+      "url": "https://21-realty.com/"
+    },
+    "stats": {
+      "uniqIPs": 20,
+      "uniqCountries": 5,
+      "dataLength": 7982350,
+      "encodedDataLength": 3968948,
+      "requests": 96
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "ip": "50.87.219.149",
+      "apexDomainAgeDays": 2105,
+      "mimeType": "text/html",
+      "title": "21 REALTY – Your trustable real estate advisors",
+      "url": "https://21-realty.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 82,
+      "ptr": "box2389.bluehost.com",
+      "domainAgeDays": 2105,
+      "tlsValidFrom": "2026-07-02T07:48:38.000Z",
+      "domain": "21-realty.com",
+      "apexDomain": "21-realty.com",
+      "asnname": "UNIFIEDLAYER-AS-1 - Unified Layer, US",
+      "asn": "AS46606",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cce8-3854-76ab-b030-eb2a3bc9aa44",
+    "_score": null,
+    "sort": [
+      1790144175698,
+      "01a0cce8-3854-76ab-b030-eb2a3bc9aa44"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cce8-3854-76ab-b030-eb2a3bc9aa44/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cce8-3854-76ab-b030-eb2a3bc9aa44.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "browningconsultingtexas.com"
+      },
+      "page": {
+        "url": "browningconsultingtexas.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "browningconsultingtexas.com",
+      "apexDomain": "browningconsultingtexas.com",
+      "time": "2026-09-23T06:15:15.534Z",
+      "uuid": "01a0cce7-55f2-72f0-8857-2dc4f42ec429",
+      "url": "https://browningconsultingtexas.com/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 4,
+      "dataLength": 1008460,
+      "encodedDataLength": 441343,
+      "requests": 33
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "ip": "208.113.145.148",
+      "apexDomainAgeDays": 1776,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Browning Consulting LLC | Tax Consultants | Lubbock, TX – Browning Consulting LLC offers reliable tax preparation services and much more for individuals, businesses, and corporations of all sizes.",
+      "url": "https://browningconsultingtexas.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 1,
+      "ptr": "vps14449.dreamhostps.com",
+      "domainAgeDays": 1776,
+      "tlsValidFrom": "2026-09-21T07:47:25.000Z",
+      "domain": "browningconsultingtexas.com",
+      "apexDomain": "browningconsultingtexas.com",
+      "asnname": "DREAMHOST-AS - New Dream Network, LLC, US",
+      "asn": "AS26347",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cce7-55f2-72f0-8857-2dc4f42ec429",
+    "_score": null,
+    "sort": [
+      1790144115534,
+      "01a0cce7-55f2-72f0-8857-2dc4f42ec429"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cce7-55f2-72f0-8857-2dc4f42ec429/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cce7-55f2-72f0-8857-2dc4f42ec429.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "norcom.com.ar"
+      },
+      "page": {
+        "url": "norcom.com.ar"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "norcom.com.ar",
+      "apexDomain": "norcom.com.ar",
+      "time": "2026-09-23T06:13:40.284Z",
+      "uuid": "01a0cce5-dcb2-7693-afad-6cc5783b2498",
+      "url": "https://norcom.com.ar/"
+    },
+    "stats": {
+      "uniqIPs": 12,
+      "uniqCountries": 4,
+      "dataLength": 2357108,
+      "encodedDataLength": 1050363,
+      "requests": 65
+    },
+    "page": {
+      "country": "US",
+      "server": "LiteSpeed",
+      "ip": "82.29.80.47",
+      "apexDomainAgeDays": 2353,
+      "mimeType": "text/html",
+      "title": "NORCOM",
+      "url": "https://norcom.com.ar/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 36,
+      "domainAgeDays": 2353,
+      "tlsValidFrom": "2026-08-17T14:26:30.000Z",
+      "domain": "norcom.com.ar",
+      "apexDomain": "norcom.com.ar",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cce5-dcb2-7693-afad-6cc5783b2498",
+    "_score": null,
+    "sort": [
+      1790144020284,
+      "01a0cce5-dcb2-7693-afad-6cc5783b2498"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cce5-dcb2-7693-afad-6cc5783b2498/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cce5-dcb2-7693-afad-6cc5783b2498.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "cookwithlina.com"
+      },
+      "page": {
+        "url": "cookwithlina.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "cookwithlina.com",
+      "apexDomain": "cookwithlina.com",
+      "time": "2026-09-23T03:34:58.605Z",
+      "uuid": "01a0cc54-80c6-74e9-8e64-285ca597b29c",
+      "url": "https://cookwithlina.com/"
+    },
+    "stats": {
+      "uniqIPs": 31,
+      "uniqCountries": 7,
+      "dataLength": 6514351,
+      "encodedDataLength": 2003470,
+      "requests": 138
+    },
+    "page": {
+      "server": "cloudflare",
+      "ip": "104.21.79.123",
+      "apexDomainAgeDays": 440,
+      "mimeType": "text/html",
+      "title": "Cook With Lina - Recipes Made with Love & Simplicity.",
+      "url": "https://cookwithlina.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 23,
+      "domainAgeDays": 440,
+      "tlsValidFrom": "2026-08-30T11:36:31.000Z",
+      "domain": "cookwithlina.com",
+      "apexDomain": "cookwithlina.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cc54-80c6-74e9-8e64-285ca597b29c",
+    "_score": null,
+    "sort": [
+      1790134498605,
+      "01a0cc54-80c6-74e9-8e64-285ca597b29c"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cc54-80c6-74e9-8e64-285ca597b29c/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cc54-80c6-74e9-8e64-285ca597b29c.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "condominiojavieracarrera.cl"
+      },
+      "page": {
+        "url": "condominiojavieracarrera.cl"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "condominiojavieracarrera.cl",
+      "apexDomain": "condominiojavieracarrera.cl",
+      "time": "2026-09-23T03:22:52.669Z",
+      "uuid": "01a0cc49-7ad6-7388-a1df-e3d198d6e11d",
+      "url": "https://condominiojavieracarrera.cl/"
+    },
+    "stats": {
+      "uniqIPs": 12,
+      "uniqCountries": 4,
+      "dataLength": 1919512,
+      "encodedDataLength": 719231,
+      "requests": 42
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "redirected": "parent-domain",
+      "ip": "75.119.203.241",
+      "apexDomainAgeDays": 2150,
+      "mimeType": "text/html",
+      "title": "Condominio Javiera Carrera Temuco – Subsidio habitacional DS19 en la mejor ubicación de Temuco",
+      "url": "https://www.condominiojavieracarrera.cl/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 42,
+      "ptr": "apache2-ogle.pdx1-shared-a1-17.dreamhost.com",
+      "domainAgeDays": 2150,
+      "tlsValidFrom": "2026-08-11T06:44:18.000Z",
+      "domain": "www.condominiojavieracarrera.cl",
+      "apexDomain": "condominiojavieracarrera.cl",
+      "asnname": "DREAMHOST-AS - New Dream Network, LLC, US",
+      "asn": "AS26347",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cc49-7ad6-7388-a1df-e3d198d6e11d",
+    "_score": null,
+    "sort": [
+      1790133772669,
+      "01a0cc49-7ad6-7388-a1df-e3d198d6e11d"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cc49-7ad6-7388-a1df-e3d198d6e11d/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cc49-7ad6-7388-a1df-e3d198d6e11d.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "firstpandr.org"
+      },
+      "page": {
+        "url": "firstpandr.org"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "firstpandr.org",
+      "apexDomain": "firstpandr.org",
+      "time": "2026-09-23T02:36:53.674Z",
+      "uuid": "01a0cc1f-68a9-7750-855b-3e1e9a142f2a",
+      "url": "http://firstpandr.org/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 4,
+      "dataLength": 577280,
+      "encodedDataLength": 199165,
+      "requests": 21
+    },
+    "page": {
+      "country": "DE",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "116.202.233.39",
+      "apexDomainAgeDays": 272,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Branding Marketing Agency – Strategy | Story | Trust",
+      "url": "https://firstpandr.org/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 39,
+      "ptr": "panel222.harmondns.net",
+      "domainAgeDays": 272,
+      "tlsValidFrom": "2026-08-14T17:27:03.000Z",
+      "domain": "firstpandr.org",
+      "apexDomain": "firstpandr.org",
+      "asnname": "HETZNER-AS Hetzner Online GmbH, DE",
+      "asn": "AS24940",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cc1f-68a9-7750-855b-3e1e9a142f2a",
+    "_score": null,
+    "sort": [
+      1790131013674,
+      "01a0cc1f-68a9-7750-855b-3e1e9a142f2a"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cc1f-68a9-7750-855b-3e1e9a142f2a/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cc1f-68a9-7750-855b-3e1e9a142f2a.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "zenteambuilding.com"
+      },
+      "page": {
+        "url": "zenteambuilding.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "zenteambuilding.com",
+      "apexDomain": "zenteambuilding.com",
+      "time": "2026-09-23T01:48:42.712Z",
+      "uuid": "01a0cbf2-c7a9-7608-98ba-b975323447ff",
+      "url": "http://zenteambuilding.com/"
+    },
+    "stats": {
+      "uniqIPs": 9,
+      "uniqCountries": 4,
+      "dataLength": 4278257,
+      "encodedDataLength": 1300544,
+      "requests": 92
+    },
+    "page": {
+      "country": "IN",
+      "server": "hws",
+      "redirected": "https-only",
+      "ip": "72.61.230.213",
+      "apexDomainAgeDays": 1243,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Zen Team Building",
+      "url": "https://zenteambuilding.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 35,
+      "domainAgeDays": 1243,
+      "tlsValidFrom": "2026-08-18T08:01:58.000Z",
+      "domain": "zenteambuilding.com",
+      "apexDomain": "zenteambuilding.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbf2-c7a9-7608-98ba-b975323447ff",
+    "_score": null,
+    "sort": [
+      1790128122712,
+      "01a0cbf2-c7a9-7608-98ba-b975323447ff"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbf2-c7a9-7608-98ba-b975323447ff/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbf2-c7a9-7608-98ba-b975323447ff.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "altanomea.com.br"
+      },
+      "page": {
+        "url": "altanomea.com.br"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "altanomea.com.br",
+      "apexDomain": "altanomea.com.br",
+      "time": "2026-09-23T01:47:55.344Z",
+      "uuid": "01a0cbf2-9171-759a-88db-a567e52e2938",
+      "url": "http://altanomea.com.br/"
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 3,
+      "dataLength": 1374956,
+      "encodedDataLength": 1025107,
+      "requests": 31
+    },
+    "page": {
+      "country": "BR",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "108.179.192.114",
+      "apexDomainAgeDays": 691,
+      "language": "pt",
+      "mimeType": "text/html",
+      "title": "Altano M&A Partners – O advisor do melhor momento da sua empresa.",
+      "url": "https://altanomea.com.br/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 20,
+      "ptr": "br668-ip05.hostgator.com.br",
+      "domainAgeDays": 691,
+      "tlsValidFrom": "2026-09-02T23:18:51.000Z",
+      "domain": "altanomea.com.br",
+      "apexDomain": "altanomea.com.br",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbf2-9171-759a-88db-a567e52e2938",
+    "_score": null,
+    "sort": [
+      1790128075344,
+      "01a0cbf2-9171-759a-88db-a567e52e2938"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbf2-9171-759a-88db-a567e52e2938/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbf2-9171-759a-88db-a567e52e2938.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "saggang.com"
+      },
+      "page": {
+        "url": "saggang.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "saggang.com",
+      "apexDomain": "saggang.com",
+      "time": "2026-09-23T01:16:33.918Z",
+      "uuid": "01a0cbd5-e008-77de-aeba-defa092f3f38",
+      "url": "https://saggang.com/"
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 3,
+      "dataLength": 407850,
+      "encodedDataLength": 213427,
+      "requests": 14
+    },
+    "page": {
+      "country": "KR",
+      "server": "nginx",
+      "ip": "158.247.254.248",
+      "apexDomainAgeDays": 360,
+      "mimeType": "text/html",
+      "title": "사깡 블로그 -",
+      "url": "https://saggang.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 53,
+      "ptr": "158-247-254-248.constant.com",
+      "domainAgeDays": 360,
+      "tlsValidFrom": "2026-07-31T03:46:51.000Z",
+      "domain": "saggang.com",
+      "apexDomain": "saggang.com",
+      "asnname": "AS-VULTR - The Constant Company, LLC, US",
+      "asn": "AS20473",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbd5-e008-77de-aeba-defa092f3f38",
+    "_score": null,
+    "sort": [
+      1790126193918,
+      "01a0cbd5-e008-77de-aeba-defa092f3f38"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbd5-e008-77de-aeba-defa092f3f38/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbd5-e008-77de-aeba-defa092f3f38.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "ambiancewax.com"
+      },
+      "page": {
+        "url": "ambiancewax.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "ambiancewax.com",
+      "apexDomain": "ambiancewax.com",
+      "time": "2026-09-23T01:14:49.083Z",
+      "uuid": "01a0cbd4-399d-700c-a622-861310db4ca0",
+      "url": "https://ambiancewax.com/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 2087461,
+      "encodedDataLength": 1010332,
+      "requests": 87
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx",
+      "ip": "143.110.150.158",
+      "apexDomainAgeDays": 1481,
+      "language": "tr",
+      "mimeType": "text/html",
+      "title": "Ambiance Wax",
+      "url": "https://ambiancewax.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 4,
+      "ptr": "1400969.cloudwaysapps.com",
+      "domainAgeDays": 1481,
+      "tlsValidFrom": "2026-09-18T23:46:53.000Z",
+      "domain": "ambiancewax.com",
+      "apexDomain": "ambiancewax.com",
+      "asnname": "DIGITALOCEAN-ASN - DigitalOcean, LLC, US",
+      "asn": "AS14061",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbd4-399d-700c-a622-861310db4ca0",
+    "_score": null,
+    "sort": [
+      1790126089083,
+      "01a0cbd4-399d-700c-a622-861310db4ca0"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbd4-399d-700c-a622-861310db4ca0/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbd4-399d-700c-a622-861310db4ca0.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "candleofhope.us"
+      },
+      "page": {
+        "url": "candleofhope.us"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "candleofhope.us",
+      "apexDomain": "candleofhope.us",
+      "time": "2026-09-23T01:09:52.846Z",
+      "uuid": "01a0cbcf-5e37-758c-aa8e-8377b6036469",
+      "url": "https://candleofhope.us/"
+    },
+    "stats": {
+      "uniqIPs": 16,
+      "uniqCountries": 4,
+      "dataLength": 64456207,
+      "encodedDataLength": 6894588,
+      "requests": 405
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "ip": "160.153.0.161",
+      "apexDomainAgeDays": 621,
+      "language": "fr",
+      "mimeType": "text/html",
+      "title": "Candle Of Hope Foundation – Donation & Charity Non-Profit WordPress Theme",
+      "url": "https://candleofhope.us/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 39,
+      "ptr": "161.0.153.160.host.secureserver.net",
+      "domainAgeDays": 621,
+      "tlsValidFrom": "2026-08-14T18:52:33.000Z",
+      "domain": "candleofhope.us",
+      "apexDomain": "candleofhope.us",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbcf-5e37-758c-aa8e-8377b6036469",
+    "_score": null,
+    "sort": [
+      1790125792846,
+      "01a0cbcf-5e37-758c-aa8e-8377b6036469"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbcf-5e37-758c-aa8e-8377b6036469/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbcf-5e37-758c-aa8e-8377b6036469.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "soochi.com.vn"
+      },
+      "page": {
+        "url": "soochi.com.vn"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "soochi.com.vn",
+      "apexDomain": "soochi.com.vn",
+      "time": "2026-09-23T01:03:11.911Z",
+      "uuid": "01a0cbc9-9170-75ff-a288-b2b715cda14b",
+      "url": "https://soochi.com.vn/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 428941,
+      "encodedDataLength": 178866,
+      "requests": 30
+    },
+    "page": {
+      "country": "VN",
+      "ip": "103.75.184.25",
+      "apexDomainAgeDays": 1450,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "SOOCHI – Một thương hiệu của thiết bị nhà bếp",
+      "url": "https://soochi.com.vn/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 43,
+      "domainAgeDays": 1450,
+      "tlsValidFrom": "2026-08-10T20:49:30.000Z",
+      "domain": "soochi.com.vn",
+      "apexDomain": "soochi.com.vn",
+      "asnname": "VNPT-AS-VN - VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN",
+      "asn": "AS135905",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbc9-9170-75ff-a288-b2b715cda14b",
+    "_score": null,
+    "sort": [
+      1790125391911,
+      "01a0cbc9-9170-75ff-a288-b2b715cda14b"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbc9-9170-75ff-a288-b2b715cda14b/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbc9-9170-75ff-a288-b2b715cda14b.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "idonialuxe.com"
+      },
+      "page": {
+        "url": "idonialuxe.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "idonialuxe.com",
+      "apexDomain": "idonialuxe.com",
+      "time": "2026-09-23T00:40:32.704Z",
+      "uuid": "01a0cbb4-e457-71ab-8e52-3afc05a60d4d",
+      "url": "http://idonialuxe.com/"
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 3,
+      "dataLength": 365196,
+      "encodedDataLength": 136917,
+      "requests": 11
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "50.62.148.71",
+      "apexDomainAgeDays": 1362,
+      "mimeType": "text/html",
+      "url": "https://idonialuxe.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 21,
+      "ptr": "71.148.62.50.host.secureserver.net",
+      "domainAgeDays": 1362,
+      "tlsValidFrom": "2026-09-01T05:12:28.000Z",
+      "domain": "idonialuxe.com",
+      "apexDomain": "idonialuxe.com",
+      "asnname": "GO-DADDY-COM-LLC - GoDaddy.com, LLC, US",
+      "asn": "AS398101",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbb4-e457-71ab-8e52-3afc05a60d4d",
+    "_score": null,
+    "sort": [
+      1790124032704,
+      "01a0cbb4-e457-71ab-8e52-3afc05a60d4d"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbb4-e457-71ab-8e52-3afc05a60d4d/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbb4-e457-71ab-8e52-3afc05a60d4d.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "autocentarjana.com"
+      },
+      "page": {
+        "url": "autocentarjana.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "autocentarjana.com",
+      "apexDomain": "autocentarjana.com",
+      "time": "2026-09-23T00:31:21.752Z",
+      "uuid": "01a0cbac-7f84-71ca-8b48-d7f61e8e5291",
+      "url": "http://autocentarjana.com/"
+    },
+    "stats": {
+      "uniqIPs": 12,
+      "uniqCountries": 3,
+      "dataLength": 6577206,
+      "encodedDataLength": 3023039,
+      "requests": 109
+    },
+    "page": {
+      "country": "DE",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "116.202.233.111",
+      "apexDomainAgeDays": 3165,
+      "language": "sr",
+      "mimeType": "text/html",
+      "title": "Tehnički pregled i registracija - Voždovac- Auto Centar Jana | Official website",
+      "url": "https://autocentarjana.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 36,
+      "ptr": "butterfly.mysafeservers.com",
+      "domainAgeDays": 3165,
+      "tlsValidFrom": "2026-08-17T03:49:23.000Z",
+      "domain": "autocentarjana.com",
+      "apexDomain": "autocentarjana.com",
+      "asnname": "HETZNER-AS Hetzner Online GmbH, DE",
+      "asn": "AS24940",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbac-7f84-71ca-8b48-d7f61e8e5291",
+    "_score": null,
+    "sort": [
+      1790123481752,
+      "01a0cbac-7f84-71ca-8b48-d7f61e8e5291"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbac-7f84-71ca-8b48-d7f61e8e5291/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbac-7f84-71ca-8b48-d7f61e8e5291.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "uarts.education"
+      },
+      "page": {
+        "url": "uarts.education"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "uarts.education",
+      "apexDomain": "uarts.education",
+      "time": "2026-09-23T00:29:47.914Z",
+      "uuid": "01a0cbaa-ffa8-77da-a979-f15943b21903",
+      "url": "http://uarts.education/"
+    },
+    "stats": {
+      "uniqIPs": 26,
+      "uniqCountries": 3,
+      "dataLength": 69107293,
+      "encodedDataLength": 31249131,
+      "requests": 319
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "188.114.97.3",
+      "apexDomainAgeDays": 1406,
+      "mimeType": "text/html",
+      "title": "Uarts School – Cursos Uarts",
+      "url": "https://uarts.education/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 10,
+      "domainAgeDays": 1406,
+      "tlsValidFrom": "2026-09-12T07:26:46.000Z",
+      "domain": "uarts.education",
+      "apexDomain": "uarts.education",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cbaa-ffa8-77da-a979-f15943b21903",
+    "_score": null,
+    "sort": [
+      1790123387914,
+      "01a0cbaa-ffa8-77da-a979-f15943b21903"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cbaa-ffa8-77da-a979-f15943b21903/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cbaa-ffa8-77da-a979-f15943b21903.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "pacharagems.com"
+      },
+      "page": {
+        "url": "pacharagems.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "pacharagems.com",
+      "apexDomain": "pacharagems.com",
+      "time": "2026-09-23T00:17:32.642Z",
+      "uuid": "01a0cb9f-c4ed-730e-9612-d48301074bfe",
+      "url": "http://pacharagems.com/"
+    },
+    "stats": {
+      "uniqIPs": 13,
+      "uniqCountries": 5,
+      "dataLength": 1207703,
+      "encodedDataLength": 517624,
+      "requests": 44
+    },
+    "page": {
+      "country": "TH",
+      "server": "Nginx_Rc-Cr",
+      "redirected": "https-only",
+      "ip": "103.86.51.196",
+      "apexDomainAgeDays": 1316,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Pachara Gems – แหวนเพชร แหวนหมั้น แหวนแต่งงาน เพชรใบเซอร์ GIA & HRD",
+      "url": "https://pacharagems.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 47,
+      "domainAgeDays": 1316,
+      "tlsValidFrom": "2026-08-06T18:07:49.000Z",
+      "domain": "pacharagems.com",
+      "apexDomain": "pacharagems.com",
+      "asnname": "BANGMODENTERPRISE-TH - Bangmod Enterprise Co., Ltd., TH",
+      "asn": "AS58955",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cb9f-c4ed-730e-9612-d48301074bfe",
+    "_score": null,
+    "sort": [
+      1790122652642,
+      "01a0cb9f-c4ed-730e-9612-d48301074bfe"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cb9f-c4ed-730e-9612-d48301074bfe/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cb9f-c4ed-730e-9612-d48301074bfe.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "beatrizmontes.com"
+      },
+      "page": {
+        "url": "beatrizmontes.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "beatrizmontes.com",
+      "apexDomain": "beatrizmontes.com",
+      "time": "2026-09-22T22:52:03.924Z",
+      "uuid": "01a0cb51-8382-763a-8bb5-c143ae1a4478",
+      "url": "https://beatrizmontes.com/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 5,
+      "dataLength": 50895062,
+      "encodedDataLength": 5094780,
+      "requests": 206
+    },
+    "page": {
+      "country": "BR",
+      "server": "nginx/1.29.8",
+      "ip": "162.241.60.255",
+      "apexDomainAgeDays": 2582,
+      "language": "es",
+      "mimeType": "text/html",
+      "title": "Beatriz Montes – Procedimientos y Capacitaciones 🇧🇷🇪🇪🇺🇸🇻🇳Técnicas internacionales | Ultra naturales",
+      "url": "https://beatrizmontes.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 36,
+      "ptr": "162-241-60-255.unifiedlayer.com",
+      "domainAgeDays": 2582,
+      "tlsValidFrom": "2026-08-17T12:33:25.000Z",
+      "domain": "beatrizmontes.com",
+      "apexDomain": "beatrizmontes.com",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cb51-8382-763a-8bb5-c143ae1a4478",
+    "_score": null,
+    "sort": [
+      1790117523924,
+      "01a0cb51-8382-763a-8bb5-c143ae1a4478"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cb51-8382-763a-8bb5-c143ae1a4478/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cb51-8382-763a-8bb5-c143ae1a4478.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "flowplanet.world"
+      },
+      "page": {
+        "url": "flowplanet.world"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "flowplanet.world",
+      "apexDomain": "flowplanet.world",
+      "time": "2026-09-22T22:34:39.287Z",
+      "uuid": "01a0cb41-a553-753a-bd99-e800f32badb1",
+      "url": "http://flowplanet.world/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 7260688,
+      "encodedDataLength": 4325970,
+      "requests": 106
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.79",
+      "apexDomainAgeDays": 479,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "FLOW – Future of Living for One World",
+      "url": "https://flowplanet.world/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 18,
+      "ptr": "79.0.153.160.host.secureserver.net",
+      "domainAgeDays": 479,
+      "tlsValidFrom": "2026-09-04T20:47:53.000Z",
+      "domain": "flowplanet.world",
+      "apexDomain": "flowplanet.world",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cb41-a553-753a-bd99-e800f32badb1",
+    "_score": null,
+    "sort": [
+      1790116479287,
+      "01a0cb41-a553-753a-bd99-e800f32badb1"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cb41-a553-753a-bd99-e800f32badb1/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cb41-a553-753a-bd99-e800f32badb1.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bmcsolutions.net"
+      },
+      "page": {
+        "url": "bmcsolutions.net"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "bmcsolutions.net",
+      "apexDomain": "bmcsolutions.net",
+      "time": "2026-09-22T22:07:33.165Z",
+      "uuid": "01a0cb28-b45f-742f-bb59-d1007c50bee6",
+      "url": "https://bmcsolutions.net/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 3,
+      "dataLength": 4422017,
+      "encodedDataLength": 4215487,
+      "requests": 137
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx",
+      "ip": "185.150.191.249",
+      "apexDomainAgeDays": 340,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Digital Marketing - Bestman's Creative Solutions",
+      "url": "https://bmcsolutions.net/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 35,
+      "ptr": "hydra.galaxysecured.net",
+      "domainAgeDays": 340,
+      "tlsValidFrom": "2026-08-18T13:31:22.000Z",
+      "domain": "bmcsolutions.net",
+      "apexDomain": "bmcsolutions.net",
+      "asnname": "RELIABLESITE - ReliableSite.Net LLC, US",
+      "asn": "AS23470",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cb28-b45f-742f-bb59-d1007c50bee6",
+    "_score": null,
+    "sort": [
+      1790114853165,
+      "01a0cb28-b45f-742f-bb59-d1007c50bee6"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cb28-b45f-742f-bb59-d1007c50bee6/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cb28-b45f-742f-bb59-d1007c50bee6.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "alnahreengroup.com"
+      },
+      "page": {
+        "url": "alnahreengroup.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "alnahreengroup.com",
+      "apexDomain": "alnahreengroup.com",
+      "time": "2026-09-22T19:44:04.897Z",
+      "uuid": "01a0caa5-70d7-756e-af22-b4153e13f31a",
+      "url": "https://alnahreengroup.com/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 6,
+      "dataLength": 6496125,
+      "encodedDataLength": 5229715,
+      "requests": 99
+    },
+    "page": {
+      "country": "IN",
+      "server": "nginx/1.25.5",
+      "ip": "103.50.162.50",
+      "apexDomainAgeDays": 1927,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "AL NAHREEN INTL CO – IMPORTS & EXPORTS WLL",
+      "url": "https://alnahreengroup.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 7,
+      "domainAgeDays": 1927,
+      "tlsValidFrom": "2026-09-14T21:19:15.000Z",
+      "domain": "alnahreengroup.com",
+      "apexDomain": "alnahreengroup.com",
+      "asnname": "PUBLIC-DOMAIN-REGISTRY - PDR, US",
+      "asn": "AS394695",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0caa5-70d7-756e-af22-b4153e13f31a",
+    "_score": null,
+    "sort": [
+      1790106244897,
+      "01a0caa5-70d7-756e-af22-b4153e13f31a"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0caa5-70d7-756e-af22-b4153e13f31a/",
+    "screenshot": "https://urlscan.io/screenshots/01a0caa5-70d7-756e-af22-b4153e13f31a.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "alholol-almobtakara.com"
+      },
+      "page": {
+        "url": "alholol-almobtakara.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "alholol-almobtakara.com",
+      "apexDomain": "alholol-almobtakara.com",
+      "time": "2026-09-22T19:33:29.423Z",
+      "uuid": "01a0ca9b-bfac-772f-9eda-a78af87c0a73",
+      "url": "https://alholol-almobtakara.com/"
+    },
+    "stats": {
+      "uniqIPs": 12,
+      "uniqCountries": 5,
+      "dataLength": 4886970,
+      "encodedDataLength": 3929560,
+      "requests": 48
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "ip": "162.241.226.61",
+      "apexDomainAgeDays": 231,
+      "mimeType": "text/html",
+      "title": "شركة الحلول المبتكرة تنظيف شقق تنظيف خزانات غسيل كنب وسجاد – نقدم خدمات تنظيف شقق، خزانات، وغسيل كنب وسجاد في الدمام وضواحيها، مع ضمان الجودة والاحترافية في كل خدمة.",
+      "url": "https://alholol-almobtakara.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 43,
+      "ptr": "box5322.bluehost.com",
+      "domainAgeDays": 231,
+      "tlsValidFrom": "2026-08-09T21:32:13.000Z",
+      "domain": "alholol-almobtakara.com",
+      "apexDomain": "alholol-almobtakara.com",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca9b-bfac-772f-9eda-a78af87c0a73",
+    "_score": null,
+    "sort": [
+      1790105609423,
+      "01a0ca9b-bfac-772f-9eda-a78af87c0a73"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca9b-bfac-772f-9eda-a78af87c0a73/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca9b-bfac-772f-9eda-a78af87c0a73.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "okakademi.com"
+      },
+      "page": {
+        "url": "okakademi.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "okakademi.com",
+      "apexDomain": "okakademi.com",
+      "time": "2026-09-22T19:25:14.030Z",
+      "uuid": "01a0ca94-3c87-761f-86d3-f86aa2993d50",
+      "url": "http://okakademi.com/",
+      "tags": [
+        "hybridanalysis"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 3,
+      "dataLength": 777271,
+      "encodedDataLength": 268858,
+      "requests": 30
+    },
+    "page": {
+      "country": "TR",
+      "server": "gws",
+      "redirected": "https-only",
+      "ip": "89.252.186.172",
+      "apexDomainAgeDays": 1712,
+      "mimeType": "text/html",
+      "title": "Ok Akademi – BrainFit – Dikkat Eksikliğine %100 İLAÇSIZ ÇÖZÜM – Türkiye'nin İlk ve Tek Bütünsel Zihin Gelişim Merkezi",
+      "url": "https://okakademi.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 10,
+      "ptr": "1721vzftl.guzel.net.tr",
+      "domainAgeDays": 1712,
+      "tlsValidFrom": "2026-09-12T12:05:45.000Z",
+      "domain": "okakademi.com",
+      "apexDomain": "okakademi.com",
+      "asnname": "guzelhosting GNET Internet Telekomunikasyon A.S., TR",
+      "asn": "AS42846",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca94-3c87-761f-86d3-f86aa2993d50",
+    "_score": null,
+    "sort": [
+      1790105114030,
+      "01a0ca94-3c87-761f-86d3-f86aa2993d50"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca94-3c87-761f-86d3-f86aa2993d50/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca94-3c87-761f-86d3-f86aa2993d50.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "21-realty.com"
+      },
+      "page": {
+        "url": "21-realty.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "21-realty.com",
+      "apexDomain": "21-realty.com",
+      "time": "2026-09-22T18:58:32.875Z",
+      "uuid": "01a0ca7b-54aa-73b7-99e0-5b5649e485f3",
+      "url": "https://21-realty.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 24,
+      "uniqCountries": 6,
+      "dataLength": 9502805,
+      "encodedDataLength": 4679741,
+      "requests": 160
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "ip": "50.87.219.149",
+      "apexDomainAgeDays": 2105,
+      "mimeType": "text/html",
+      "title": "21 REALTY – Your trustable real estate advisors",
+      "url": "https://21-realty.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 82,
+      "ptr": "box2389.bluehost.com",
+      "domainAgeDays": 2105,
+      "tlsValidFrom": "2026-07-02T07:48:38.000Z",
+      "domain": "21-realty.com",
+      "apexDomain": "21-realty.com",
+      "asnname": "UNIFIEDLAYER-AS-1 - Unified Layer, US",
+      "asn": "AS46606",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca7b-54aa-73b7-99e0-5b5649e485f3",
+    "_score": null,
+    "sort": [
+      1790103512875,
+      "01a0ca7b-54aa-73b7-99e0-5b5649e485f3"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca7b-54aa-73b7-99e0-5b5649e485f3/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca7b-54aa-73b7-99e0-5b5649e485f3.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "247wholesale.co.uk"
+      },
+      "page": {
+        "url": "247wholesale.co.uk"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "247wholesale.co.uk",
+      "apexDomain": "247wholesale.co.uk",
+      "time": "2026-09-22T18:58:03.210Z",
+      "uuid": "01a0ca7b-4f91-7327-95f0-68820b1195b3",
+      "url": "https://247wholesale.co.uk/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 5,
+      "dataLength": 8548647,
+      "encodedDataLength": 6058257,
+      "requests": 193
+    },
+    "page": {
+      "country": "GB",
+      "server": "Apache",
+      "ip": "185.151.30.124",
+      "apexDomainAgeDays": 2550,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home Electronics - 247wholesale",
+      "url": "https://247wholesale.co.uk/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 28,
+      "ptr": "185-151-30-124.ptr4.stackcp.net",
+      "domainAgeDays": 2550,
+      "tlsValidFrom": "2026-08-25T11:57:24.000Z",
+      "domain": "247wholesale.co.uk",
+      "apexDomain": "247wholesale.co.uk",
+      "asnname": "TWENTYI 20i Limited, GB",
+      "asn": "AS48254",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca7b-4f91-7327-95f0-68820b1195b3",
+    "_score": null,
+    "sort": [
+      1790103483210,
+      "01a0ca7b-4f91-7327-95f0-68820b1195b3"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca7b-4f91-7327-95f0-68820b1195b3/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca7b-4f91-7327-95f0-68820b1195b3.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "browningconsultingtexas.com"
+      },
+      "page": {
+        "url": "browningconsultingtexas.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "browningconsultingtexas.com",
+      "apexDomain": "browningconsultingtexas.com",
+      "time": "2026-09-22T18:57:26.133Z",
+      "uuid": "01a0ca7a-bbf9-736d-a215-efe312d099f7",
+      "url": "https://browningconsultingtexas.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 4,
+      "dataLength": 1306905,
+      "encodedDataLength": 509794,
+      "requests": 35
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "ip": "208.113.145.148",
+      "apexDomainAgeDays": 1776,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Browning Consulting LLC | Tax Consultants | Lubbock, TX – Browning Consulting LLC offers reliable tax preparation services and much more for individuals, businesses, and corporations of all sizes.",
+      "url": "https://browningconsultingtexas.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 1,
+      "ptr": "vps14449.dreamhostps.com",
+      "domainAgeDays": 1776,
+      "tlsValidFrom": "2026-09-21T07:47:25.000Z",
+      "domain": "browningconsultingtexas.com",
+      "apexDomain": "browningconsultingtexas.com",
+      "asnname": "DREAMHOST-AS - New Dream Network, LLC, US",
+      "asn": "AS26347",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca7a-bbf9-736d-a215-efe312d099f7",
+    "_score": null,
+    "sort": [
+      1790103446133,
+      "01a0ca7a-bbf9-736d-a215-efe312d099f7"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca7a-bbf9-736d-a215-efe312d099f7/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca7a-bbf9-736d-a215-efe312d099f7.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "davariyabrothers.com"
+      },
+      "page": {
+        "url": "davariyabrothers.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "davariyabrothers.com",
+      "apexDomain": "davariyabrothers.com",
+      "time": "2026-09-22T18:52:54.107Z",
+      "uuid": "01a0ca76-9e36-7648-bb59-553b261d683d",
+      "url": "https://davariyabrothers.com/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 4,
+      "dataLength": 5594876,
+      "encodedDataLength": 4415464,
+      "requests": 53
+    },
+    "page": {
+      "server": "cloudflare",
+      "ip": "172.67.201.183",
+      "apexDomainAgeDays": 3020,
+      "mimeType": "text/html",
+      "title": "Davariya Brothers",
+      "url": "https://davariyabrothers.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 11,
+      "domainAgeDays": 3020,
+      "tlsValidFrom": "2026-09-10T23:45:32.000Z",
+      "domain": "davariyabrothers.com",
+      "apexDomain": "davariyabrothers.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca76-9e36-7648-bb59-553b261d683d",
+    "_score": null,
+    "sort": [
+      1790103174107,
+      "01a0ca76-9e36-7648-bb59-553b261d683d"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca76-9e36-7648-bb59-553b261d683d/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca76-9e36-7648-bb59-553b261d683d.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "driftwoodresortmn.com"
+      },
+      "page": {
+        "url": "driftwoodresortmn.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "driftwoodresortmn.com",
+      "apexDomain": "driftwoodresortmn.com",
+      "time": "2026-09-22T16:56:58.800Z",
+      "uuid": "01a0ca0c-10cc-76fa-9e23-68fe3e0c8d50",
+      "url": "http://driftwoodresortmn.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 13,
+      "uniqCountries": 4,
+      "dataLength": 19089742,
+      "encodedDataLength": 13910771,
+      "requests": 98
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "199.192.27.115",
+      "apexDomainAgeDays": 3298,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Drift wood – Cabin Rentals Minnesota | Driftwood Resort",
+      "url": "https://driftwoodresortmn.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 36,
+      "ptr": "server1.designstudioonline.com",
+      "domainAgeDays": 3298,
+      "tlsValidFrom": "2026-08-16T21:55:43.000Z",
+      "domain": "driftwoodresortmn.com",
+      "apexDomain": "driftwoodresortmn.com",
+      "asnname": "NAMECHEAP-NET - Namecheap, Inc., US",
+      "asn": "AS22612",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0c-10cc-76fa-9e23-68fe3e0c8d50",
+    "_score": null,
+    "sort": [
+      1790096218800,
+      "01a0ca0c-10cc-76fa-9e23-68fe3e0c8d50"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0c-10cc-76fa-9e23-68fe3e0c8d50/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0c-10cc-76fa-9e23-68fe3e0c8d50.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "contentcareer.com"
+      },
+      "page": {
+        "url": "contentcareer.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "contentcareer.com",
+      "apexDomain": "contentcareer.com",
+      "time": "2026-09-22T16:56:50.877Z",
+      "uuid": "01a0ca0b-ff19-7234-a742-1c39fe434f22",
+      "url": "http://contentcareer.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 4,
+      "dataLength": 2166092,
+      "encodedDataLength": 1853662,
+      "requests": 33
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "2a06:98c1:3120::c",
+      "apexDomainAgeDays": 3018,
+      "language": "th",
+      "mimeType": "text/html",
+      "title": "contentcareer – PGSLOT เว็บตรงไม่ผ่านเอเยนต์ ปี2024",
+      "url": "https://contentcareer.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 12,
+      "domainAgeDays": 3018,
+      "tlsValidFrom": "2026-09-09T19:36:16.000Z",
+      "domain": "contentcareer.com",
+      "apexDomain": "contentcareer.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-ff19-7234-a742-1c39fe434f22",
+    "_score": null,
+    "sort": [
+      1790096210877,
+      "01a0ca0b-ff19-7234-a742-1c39fe434f22"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-ff19-7234-a742-1c39fe434f22/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-ff19-7234-a742-1c39fe434f22.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "ar2arquitetura.com.br"
+      },
+      "page": {
+        "url": "ar2arquitetura.com.br"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "ar2arquitetura.com.br",
+      "apexDomain": "ar2arquitetura.com.br",
+      "time": "2026-09-22T16:56:39.739Z",
+      "uuid": "01a0ca0c-224e-768d-be99-0aed9f6915b8",
+      "url": "http://ar2arquitetura.com.br/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 24,
+      "uniqCountries": 5,
+      "dataLength": 7412257,
+      "encodedDataLength": 3298743,
+      "requests": 159
+    },
+    "page": {
+      "country": "BR",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "108.167.188.189",
+      "apexDomainAgeDays": 2998,
+      "language": "pt",
+      "mimeType": "text/html",
+      "title": "AR2 Arquitetura | Projetos Arquitetônicos, Reformas e Interiores -",
+      "url": "https://ar2arquitetura.com.br/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 49,
+      "ptr": "srv140-ip05.prodns.com.br",
+      "domainAgeDays": 2998,
+      "tlsValidFrom": "2026-08-04T08:03:08.000Z",
+      "domain": "ar2arquitetura.com.br",
+      "apexDomain": "ar2arquitetura.com.br",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0c-224e-768d-be99-0aed9f6915b8",
+    "_score": null,
+    "sort": [
+      1790096199739,
+      "01a0ca0c-224e-768d-be99-0aed9f6915b8"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0c-224e-768d-be99-0aed9f6915b8/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0c-224e-768d-be99-0aed9f6915b8.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "futurex.media"
+      },
+      "page": {
+        "url": "futurex.media"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "futurex.media",
+      "apexDomain": "futurex.media",
+      "time": "2026-09-22T16:56:28.622Z",
+      "uuid": "01a0ca0c-0594-72eb-b29a-b6af7d19bf24",
+      "url": "http://futurex.media/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 3,
+      "dataLength": 9523409,
+      "encodedDataLength": 8166521,
+      "requests": 59
+    },
+    "page": {
+      "country": "DE",
+      "server": "hcdn",
+      "redirected": "https-only",
+      "ip": "2a02:4780:45:e9d7:490e:cadb:732a:dffc",
+      "apexDomainAgeDays": 838,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "FutureX",
+      "url": "https://futurex.media/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 45,
+      "domainAgeDays": 838,
+      "tlsValidFrom": "2026-08-08T03:40:04.000Z",
+      "domain": "futurex.media",
+      "apexDomain": "futurex.media",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0c-0594-72eb-b29a-b6af7d19bf24",
+    "_score": null,
+    "sort": [
+      1790096188622,
+      "01a0ca0c-0594-72eb-b29a-b6af7d19bf24"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0c-0594-72eb-b29a-b6af7d19bf24/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0c-0594-72eb-b29a-b6af7d19bf24.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bostansafi.com"
+      },
+      "page": {
+        "url": "bostansafi.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "bostansafi.com",
+      "apexDomain": "bostansafi.com",
+      "time": "2026-09-22T16:56:28.165Z",
+      "uuid": "01a0ca0b-cafe-74c8-90f2-98228eece7bf",
+      "url": "http://bostansafi.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 2,
+      "dataLength": 45622675,
+      "encodedDataLength": 24496529,
+      "requests": 139
+    },
+    "page": {
+      "country": "US",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "23.153.104.19",
+      "apexDomainAgeDays": 1272,
+      "language": "fa",
+      "mimeType": "text/html",
+      "title": "شرکت خدمات زراعتی بوستان صافی – فروش کودهای کشاورزی، آزمایش خاک و مشاوره زراعتی",
+      "url": "https://bostansafi.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 20,
+      "ptr": "c4-19.my-control-panel.com",
+      "domainAgeDays": 1272,
+      "tlsValidFrom": "2026-09-02T08:12:23.000Z",
+      "domain": "bostansafi.com",
+      "apexDomain": "bostansafi.com",
+      "asnname": "AQUIRYN-LLC - Aquiryn LLC, US",
+      "asn": "AS32561",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-cafe-74c8-90f2-98228eece7bf",
+    "_score": null,
+    "sort": [
+      1790096188165,
+      "01a0ca0b-cafe-74c8-90f2-98228eece7bf"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-cafe-74c8-90f2-98228eece7bf/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-cafe-74c8-90f2-98228eece7bf.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "justmuv.com"
+      },
+      "page": {
+        "url": "justmuv.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "justmuv.com",
+      "apexDomain": "justmuv.com",
+      "time": "2026-09-22T16:56:24.590Z",
+      "uuid": "01a0ca0b-ed37-73a0-a274-28c660b361ce",
+      "url": "http://justmuv.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 15,
+      "uniqCountries": 3,
+      "dataLength": 6007508,
+      "encodedDataLength": 2367075,
+      "requests": 82
+    },
+    "page": {
+      "country": "US",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "198.38.90.121",
+      "apexDomainAgeDays": 3551,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Just Muv Consulting – Actively Changing Lives!",
+      "url": "https://justmuv.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 6,
+      "ptr": "s12782.usc1.stableserver.net",
+      "domainAgeDays": 3551,
+      "tlsValidFrom": "2026-09-16T02:21:59.000Z",
+      "domain": "justmuv.com",
+      "apexDomain": "justmuv.com",
+      "asnname": "WHG-DAL WHG Hosting Services Ltd, GB",
+      "asn": "AS36454",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-ed37-73a0-a274-28c660b361ce",
+    "_score": null,
+    "sort": [
+      1790096184590,
+      "01a0ca0b-ed37-73a0-a274-28c660b361ce"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-ed37-73a0-a274-28c660b361ce/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-ed37-73a0-a274-28c660b361ce.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "mymedigapplans.com"
+      },
+      "page": {
+        "url": "mymedigapplans.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.mymedigapplans.com",
+      "apexDomain": "mymedigapplans.com",
+      "time": "2026-09-22T16:56:23.302Z",
+      "uuid": "01a0ca0b-a597-72bc-8adb-92f68d8d55e9",
+      "url": "http://www.mymedigapplans.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 3,
+      "uniqCountries": 2,
+      "dataLength": 1143726,
+      "encodedDataLength": 722348,
+      "requests": 23
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "104.198.107.195",
+      "apexDomainAgeDays": 3254,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "My Medigap Plans - Your Medicare Supplement Resource",
+      "url": "https://www.mymedigapplans.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 3,
+      "ptr": "195.107.198.104.bc.googleusercontent.com",
+      "domainAgeDays": 3272,
+      "tlsValidFrom": "2026-09-19T02:33:54.000Z",
+      "domain": "www.mymedigapplans.com",
+      "apexDomain": "mymedigapplans.com",
+      "asnname": "GOOGLE-CLOUD-PLATFORM - Google LLC, US",
+      "asn": "AS396982",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-a597-72bc-8adb-92f68d8d55e9",
+    "_score": null,
+    "sort": [
+      1790096183302,
+      "01a0ca0b-a597-72bc-8adb-92f68d8d55e9"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-a597-72bc-8adb-92f68d8d55e9/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-a597-72bc-8adb-92f68d8d55e9.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "smkktb-timika.sch.id"
+      },
+      "page": {
+        "url": "smkktb-timika.sch.id"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "smkktb-timika.sch.id",
+      "apexDomain": "smkktb-timika.sch.id",
+      "time": "2026-09-22T16:56:14.747Z",
+      "uuid": "01a0ca0b-6277-710e-96e0-91f351ecaa58",
+      "url": "http://smkktb-timika.sch.id/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 3099976,
+      "encodedDataLength": 1571813,
+      "requests": 57
+    },
+    "page": {
+      "country": "ID",
+      "server": "LiteSpeed",
+      "ip": "45.64.98.218",
+      "apexDomainAgeDays": 3058,
+      "language": "id",
+      "mimeType": "text/html",
+      "title": "SMK TUNAS BANGSA PARIWISATA TIMIKA – JALAN CENDERAWASIH – KABUPATEN MIMIKA – PAPUA TENGAH",
+      "url": "http://smkktb-timika.sch.id/",
+      "ptr": "server24id.galuhmedia.co.id",
+      "domainAgeDays": 3058,
+      "domain": "smkktb-timika.sch.id",
+      "apexDomain": "smkktb-timika.sch.id",
+      "asnname": "ARGON-AS-ID - Argon Data Communication, ID",
+      "asn": "AS58477",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-6277-710e-96e0-91f351ecaa58",
+    "_score": null,
+    "sort": [
+      1790096174747,
+      "01a0ca0b-6277-710e-96e0-91f351ecaa58"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-6277-710e-96e0-91f351ecaa58/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-6277-710e-96e0-91f351ecaa58.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "arabma.com"
+      },
+      "page": {
+        "url": "arabma.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "arabma.com",
+      "apexDomain": "arabma.com",
+      "time": "2026-09-22T16:56:08.382Z",
+      "uuid": "01a0ca0b-b320-724a-8ebd-b3ccb6c4830b",
+      "url": "http://arabma.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 19331559,
+      "encodedDataLength": 17739678,
+      "requests": 95
+    },
+    "page": {
+      "country": "FR",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "92.205.2.188",
+      "apexDomainAgeDays": 2818,
+      "language": "ar",
+      "mimeType": "text/html",
+      "title": "جمعية إدارة الأعمال العربية",
+      "url": "https://arabma.com/",
+      "tlsValidDays": 397,
+      "tlsAgeDays": 344,
+      "ptr": "188.2.205.92.host.secureserver.net",
+      "domainAgeDays": 2818,
+      "tlsValidFrom": "2025-10-13T10:28:43.000Z",
+      "domain": "arabma.com",
+      "apexDomain": "arabma.com",
+      "asnname": "GODADDY-SXB Host Europe GmbH, DE",
+      "asn": "AS21499",
+      "tlsIssuer": "Go Daddy Secure Certificate Authority - G2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-b320-724a-8ebd-b3ccb6c4830b",
+    "_score": null,
+    "sort": [
+      1790096168382,
+      "01a0ca0b-b320-724a-8ebd-b3ccb6c4830b"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-b320-724a-8ebd-b3ccb6c4830b/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-b320-724a-8ebd-b3ccb6c4830b.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "turbowebsites.com"
+      },
+      "page": {
+        "url": "turbowebsites.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "turbowebsites.com",
+      "apexDomain": "turbowebsites.com",
+      "time": "2026-09-22T16:56:02.882Z",
+      "uuid": "01a0ca0b-8eb6-7211-9df3-4b21786f2b1f",
+      "url": "http://turbowebsites.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 13,
+      "uniqCountries": 3,
+      "dataLength": 17537503,
+      "encodedDataLength": 13917356,
+      "requests": 151
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "162.159.134.42",
+      "apexDomainAgeDays": 2403,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home - Turbo Websites",
+      "url": "https://turbowebsites.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 7,
+      "domainAgeDays": 2403,
+      "tlsValidFrom": "2026-09-15T11:01:29.000Z",
+      "domain": "turbowebsites.com",
+      "apexDomain": "turbowebsites.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-8eb6-7211-9df3-4b21786f2b1f",
+    "_score": null,
+    "sort": [
+      1790096162882,
+      "01a0ca0b-8eb6-7211-9df3-4b21786f2b1f"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-8eb6-7211-9df3-4b21786f2b1f/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-8eb6-7211-9df3-4b21786f2b1f.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "tasteofnations.ch"
+      },
+      "page": {
+        "url": "tasteofnations.ch"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "tasteofnations.ch",
+      "apexDomain": "tasteofnations.ch",
+      "time": "2026-09-22T16:55:59.561Z",
+      "uuid": "01a0ca0b-93f3-77bc-9771-fe0717aee08f",
+      "url": "http://tasteofnations.ch/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 3,
+      "dataLength": 5630588,
+      "encodedDataLength": 3448033,
+      "requests": 74
+    },
+    "page": {
+      "country": "US",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "160.153.133.167",
+      "apexDomainAgeDays": 2295,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home - NIRWANA",
+      "url": "https://tasteofnations.ch/",
+      "tlsValidDays": 198,
+      "tlsAgeDays": 163,
+      "ptr": "167.133.153.160.host.secureserver.net",
+      "domainAgeDays": 2295,
+      "tlsValidFrom": "2026-04-12T11:25:36.000Z",
+      "domain": "tasteofnations.ch",
+      "apexDomain": "tasteofnations.ch",
+      "asnname": "GODADDY-SXB Host Europe GmbH, DE",
+      "asn": "AS21499",
+      "tlsIssuer": "Go Daddy Secure Certificate Authority - G2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-93f3-77bc-9771-fe0717aee08f",
+    "_score": null,
+    "sort": [
+      1790096159561,
+      "01a0ca0b-93f3-77bc-9771-fe0717aee08f"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-93f3-77bc-9771-fe0717aee08f/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-93f3-77bc-9771-fe0717aee08f.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "pustihaat.com"
+      },
+      "page": {
+        "url": "pustihaat.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "pustihaat.com",
+      "apexDomain": "pustihaat.com",
+      "time": "2026-09-22T16:55:58.521Z",
+      "uuid": "01a0ca0b-6ac0-7638-98fd-47d0718e92cc",
+      "url": "http://pustihaat.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 9,
+      "uniqCountries": 5,
+      "dataLength": 8436747,
+      "encodedDataLength": 6851839,
+      "requests": 274
+    },
+    "page": {
+      "country": "BD",
+      "redirected": "https-only",
+      "ip": "151.158.44.116",
+      "apexDomainAgeDays": 545,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Just a moment…",
+      "url": "https://pustihaat.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 14,
+      "ptr": "moon.serverdns.biz",
+      "domainAgeDays": 545,
+      "tlsValidFrom": "2026-09-08T09:16:17.000Z",
+      "domain": "pustihaat.com",
+      "apexDomain": "pustihaat.com",
+      "asnname": "WEBHOSTBD-AS-AP - Web Host BD, BD",
+      "asn": "AS138145",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-6ac0-7638-98fd-47d0718e92cc",
+    "_score": null,
+    "sort": [
+      1790096158521,
+      "01a0ca0b-6ac0-7638-98fd-47d0718e92cc"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-6ac0-7638-98fd-47d0718e92cc/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-6ac0-7638-98fd-47d0718e92cc.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "tttf.foundation"
+      },
+      "page": {
+        "url": "tttf.foundation"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "tttf.foundation",
+      "apexDomain": "tttf.foundation",
+      "time": "2026-09-22T16:55:58.304Z",
+      "uuid": "01a0ca0b-8281-76bd-bde5-27d52ad41476",
+      "url": "http://tttf.foundation/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 11,
+      "uniqCountries": 3,
+      "dataLength": 7251091,
+      "encodedDataLength": 2260659,
+      "requests": 60
+    },
+    "page": {
+      "country": "GB",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "185.151.30.189",
+      "apexDomainAgeDays": 1317,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "TTT Foundation | The Ten Thousand Foundation",
+      "url": "https://tttf.foundation/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 14,
+      "ptr": "185-151-30-189.ptr4.stackcp.net",
+      "domainAgeDays": 1317,
+      "tlsValidFrom": "2026-09-08T07:27:32.000Z",
+      "domain": "tttf.foundation",
+      "apexDomain": "tttf.foundation",
+      "asnname": "TWENTYI 20i Limited, GB",
+      "asn": "AS48254",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-8281-76bd-bde5-27d52ad41476",
+    "_score": null,
+    "sort": [
+      1790096158304,
+      "01a0ca0b-8281-76bd-bde5-27d52ad41476"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-8281-76bd-bde5-27d52ad41476/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-8281-76bd-bde5-27d52ad41476.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "agapehomechoice.com"
+      },
+      "page": {
+        "url": "agapehomechoice.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "agapehomechoice.com",
+      "apexDomain": "agapehomechoice.com",
+      "time": "2026-09-22T16:55:56.043Z",
+      "uuid": "01a0ca0b-7577-7033-8158-758afc37c80f",
+      "url": "https://agapehomechoice.com/"
+    },
+    "stats": {
+      "uniqIPs": 9,
+      "uniqCountries": 5,
+      "dataLength": 2446142,
+      "encodedDataLength": 1740619,
+      "requests": 72
+    },
+    "page": {
+      "country": "ZA",
+      "server": "Apache",
+      "ip": "197.221.12.241",
+      "apexDomainAgeDays": 2422,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Agape Home Choice",
+      "url": "https://agapehomechoice.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 1,
+      "ptr": "dedi426.cpt4.host-h.net",
+      "domainAgeDays": 2422,
+      "tlsValidFrom": "2026-09-21T13:02:23.000Z",
+      "domain": "agapehomechoice.com",
+      "apexDomain": "agapehomechoice.com",
+      "asnname": "Xneelo (Pty) Ltd - Xneelo (Pty) Ltd, ZA",
+      "asn": "AS37153",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-7577-7033-8158-758afc37c80f",
+    "_score": null,
+    "sort": [
+      1790096156043,
+      "01a0ca0b-7577-7033-8158-758afc37c80f"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-7577-7033-8158-758afc37c80f/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-7577-7033-8158-758afc37c80f.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "turbomarketplace.com"
+      },
+      "page": {
+        "url": "turbomarketplace.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "turbomarketplace.com",
+      "apexDomain": "turbomarketplace.com",
+      "time": "2026-09-22T16:55:55.412Z",
+      "uuid": "01a0ca0b-8895-71cd-a7c2-3614355bd129",
+      "url": "http://turbomarketplace.com/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 9490093,
+      "encodedDataLength": 6741377,
+      "requests": 145
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.53",
+      "apexDomainAgeDays": 2343,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home - Turbo Marketplace",
+      "url": "https://turbomarketplace.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 28,
+      "ptr": "53.0.153.160.host.secureserver.net",
+      "domainAgeDays": 2343,
+      "tlsValidFrom": "2026-08-25T08:30:20.000Z",
+      "domain": "turbomarketplace.com",
+      "apexDomain": "turbomarketplace.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-8895-71cd-a7c2-3614355bd129",
+    "_score": null,
+    "sort": [
+      1790096155412,
+      "01a0ca0b-8895-71cd-a7c2-3614355bd129"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-8895-71cd-a7c2-3614355bd129/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-8895-71cd-a7c2-3614355bd129.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "oleadelyssa.fr"
+      },
+      "page": {
+        "url": "oleadelyssa.fr"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "oleadelyssa.fr",
+      "apexDomain": "oleadelyssa.fr",
+      "time": "2026-09-22T16:55:43.413Z",
+      "uuid": "01a0ca0b-503c-71a9-966a-b9771fd4a53c",
+      "url": "http://oleadelyssa.fr/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 5,
+      "dataLength": 14052086,
+      "encodedDataLength": 12679248,
+      "requests": 108
+    },
+    "page": {
+      "country": "FR",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "2001:41d0:301::100",
+      "apexDomainAgeDays": 546,
+      "mimeType": "text/html",
+      "title": "OLEA D’ELYSSA – Huile d'olive extra vierge Tunisienne",
+      "url": "https://oleadelyssa.fr/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 33,
+      "domainAgeDays": 546,
+      "tlsValidFrom": "2026-08-20T10:24:12.000Z",
+      "domain": "oleadelyssa.fr",
+      "apexDomain": "oleadelyssa.fr",
+      "asnname": "OVH OVH SAS, FR",
+      "asn": "AS16276",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca0b-503c-71a9-966a-b9771fd4a53c",
+    "_score": null,
+    "sort": [
+      1790096143413,
+      "01a0ca0b-503c-71a9-966a-b9771fd4a53c"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca0b-503c-71a9-966a-b9771fd4a53c/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca0b-503c-71a9-966a-b9771fd4a53c.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "xn--q3cxt4bxc8b.com"
+      },
+      "page": {
+        "url": "xn--q3cxt4bxc8b.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "xn--q3cxt4bxc8b.com",
+      "apexDomain": "xn--q3cxt4bxc8b.com",
+      "time": "2026-09-22T16:53:59.202Z",
+      "uuid": "01a0ca09-c0e0-7329-a508-36c544a85ab1",
+      "url": "http://xn--q3cxt4bxc8b.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 3104978,
+      "encodedDataLength": 1729243,
+      "requests": 55
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "172.67.167.153",
+      "apexDomainAgeDays": 1202,
+      "language": "th",
+      "mimeType": "text/html",
+      "title": "เล่นหี.com - เว็บดูคลิปหลุด นักศึกษาไทย Mlive Onlyfans แจ่มๆ",
+      "url": "https://xn--q3cxt4bxc8b.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 57,
+      "domainAgeDays": 1202,
+      "tlsValidFrom": "2026-07-26T21:01:46.000Z",
+      "domain": "xn--q3cxt4bxc8b.com",
+      "apexDomain": "xn--q3cxt4bxc8b.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca09-c0e0-7329-a508-36c544a85ab1",
+    "_score": null,
+    "sort": [
+      1790096039202,
+      "01a0ca09-c0e0-7329-a508-36c544a85ab1"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca09-c0e0-7329-a508-36c544a85ab1/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca09-c0e0-7329-a508-36c544a85ab1.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "briannacrawford.com"
+      },
+      "page": {
+        "url": "briannacrawford.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.briannacrawford.com",
+      "apexDomain": "briannacrawford.com",
+      "time": "2026-09-22T16:49:26.875Z",
+      "uuid": "01a0ca05-9def-73e1-843d-d0d1303d0a6e",
+      "url": "http://www.briannacrawford.com/"
+    },
+    "stats": {
+      "uniqIPs": 9,
+      "uniqCountries": 4,
+      "dataLength": 1765850,
+      "encodedDataLength": 680788,
+      "requests": 46
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.100",
+      "apexDomainAgeDays": 1316,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Brianna Crawford – Freelance Marketing Copywriter for Technology Companies",
+      "url": "https://www.briannacrawford.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 52,
+      "ptr": "100.0.153.160.host.secureserver.net",
+      "domainAgeDays": 1186,
+      "tlsValidFrom": "2026-07-31T22:10:44.000Z",
+      "domain": "www.briannacrawford.com",
+      "apexDomain": "briannacrawford.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca05-9def-73e1-843d-d0d1303d0a6e",
+    "_score": null,
+    "sort": [
+      1790095766875,
+      "01a0ca05-9def-73e1-843d-d0d1303d0a6e"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca05-9def-73e1-843d-d0d1303d0a6e/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca05-9def-73e1-843d-d0d1303d0a6e.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "arthholidays.com"
+      },
+      "page": {
+        "url": "arthholidays.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "www.arthholidays.com",
+      "apexDomain": "arthholidays.com",
+      "time": "2026-09-22T16:49:01.059Z",
+      "uuid": "01a0ca05-1ed4-7495-b04f-5e2df6eef7a7",
+      "url": "http://www.arthholidays.com/"
+    },
+    "stats": {
+      "uniqIPs": 5,
+      "uniqCountries": 3,
+      "dataLength": 6718411,
+      "encodedDataLength": 4205030,
+      "requests": 70
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "162.241.169.194",
+      "apexDomainAgeDays": 1691,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Arth Holidays – Explore. Experience. Enjoy. – Curated Luxury Escapes",
+      "url": "https://www.arthholidays.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 12,
+      "ptr": "162-241-169-194.unifiedlayer.com",
+      "domainAgeDays": 7,
+      "tlsValidFrom": "2026-09-10T09:19:53.000Z",
+      "domain": "www.arthholidays.com",
+      "apexDomain": "arthholidays.com",
+      "asnname": "UNIFIEDLAYER-AS-1 - Unified Layer, US",
+      "asn": "AS46606",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca05-1ed4-7495-b04f-5e2df6eef7a7",
+    "_score": null,
+    "sort": [
+      1790095741059,
+      "01a0ca05-1ed4-7495-b04f-5e2df6eef7a7"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca05-1ed4-7495-b04f-5e2df6eef7a7/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca05-1ed4-7495-b04f-5e2df6eef7a7.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "webkul.design"
+      },
+      "page": {
+        "url": "webkul.design"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "webkul.design",
+      "apexDomain": "webkul.design",
+      "time": "2026-09-22T16:47:53.680Z",
+      "uuid": "01a0ca03-ea20-712a-8c51-73aebd797e6c",
+      "url": "http://webkul.design/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 3,
+      "dataLength": 5987626,
+      "encodedDataLength": 5585938,
+      "requests": 173
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "172.67.184.124",
+      "apexDomainAgeDays": 2441,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "UI/UX Design - Product and Branding Agency",
+      "url": "https://webkul.design/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 3,
+      "domainAgeDays": 2441,
+      "tlsValidFrom": "2026-09-19T00:20:11.000Z",
+      "domain": "webkul.design",
+      "apexDomain": "webkul.design",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ca03-ea20-712a-8c51-73aebd797e6c",
+    "_score": null,
+    "sort": [
+      1790095673680,
+      "01a0ca03-ea20-712a-8c51-73aebd797e6c"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ca03-ea20-712a-8c51-73aebd797e6c/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ca03-ea20-712a-8c51-73aebd797e6c.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "sonaxconsultancy.com"
+      },
+      "page": {
+        "url": "sonaxconsultancy.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "sonaxconsultancy.com",
+      "apexDomain": "sonaxconsultancy.com",
+      "time": "2026-09-22T16:43:36.005Z",
+      "uuid": "01a0c9ff-e229-7759-9895-21eb46723417",
+      "url": "http://sonaxconsultancy.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 4525705,
+      "encodedDataLength": 2640941,
+      "requests": 95
+    },
+    "page": {
+      "country": "IN",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "103.211.216.63",
+      "apexDomainAgeDays": 872,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "BIS ISI Mark Certification Consultants in India | ISI Mark, FMCS, CRS",
+      "url": "https://sonaxconsultancy.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 7,
+      "ptr": "bh-in-20.webhostbox.net",
+      "domainAgeDays": 872,
+      "tlsValidFrom": "2026-09-15T12:45:02.000Z",
+      "domain": "sonaxconsultancy.com",
+      "apexDomain": "sonaxconsultancy.com",
+      "asnname": "PUBLIC-DOMAIN-REGISTRY - PDR, US",
+      "asn": "AS394695",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9ff-e229-7759-9895-21eb46723417",
+    "_score": null,
+    "sort": [
+      1790095416005,
+      "01a0c9ff-e229-7759-9895-21eb46723417"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9ff-e229-7759-9895-21eb46723417/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9ff-e229-7759-9895-21eb46723417.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "softgenics.net"
+      },
+      "page": {
+        "url": "softgenics.net"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "softgenics.net",
+      "apexDomain": "softgenics.net",
+      "time": "2026-09-22T16:42:44.332Z",
+      "uuid": "01a0c9ff-5d2f-701d-90b7-0d470f8abbff",
+      "url": "http://softgenics.net/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 3,
+      "dataLength": 1033626,
+      "encodedDataLength": 455077,
+      "requests": 49
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "188.114.96.3",
+      "apexDomainAgeDays": 1793,
+      "mimeType": "text/html",
+      "title": "SoftGenics – FiveM Assets Store",
+      "url": "https://softgenics.net/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 27,
+      "domainAgeDays": 1793,
+      "tlsValidFrom": "2026-08-25T19:14:59.000Z",
+      "domain": "softgenics.net",
+      "apexDomain": "softgenics.net",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9ff-5d2f-701d-90b7-0d470f8abbff",
+    "_score": null,
+    "sort": [
+      1790095364332,
+      "01a0c9ff-5d2f-701d-90b7-0d470f8abbff"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9ff-5d2f-701d-90b7-0d470f8abbff/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9ff-5d2f-701d-90b7-0d470f8abbff.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "ravsatexim.com"
+      },
+      "page": {
+        "url": "ravsatexim.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "ravsatexim.com",
+      "apexDomain": "ravsatexim.com",
+      "time": "2026-09-22T16:39:03.894Z",
+      "uuid": "01a0c9fb-f8b4-758b-ac4f-b3bd4e53fa31",
+      "url": "http://ravsatexim.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 4,
+      "dataLength": 14247814,
+      "encodedDataLength": 12075211,
+      "requests": 75
+    },
+    "page": {
+      "country": "IN",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "2a02:4780:11:931:0:1b38:92f2:2",
+      "apexDomainAgeDays": 208,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home - Ravsat Exim",
+      "url": "https://ravsatexim.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 38,
+      "domainAgeDays": 208,
+      "tlsValidFrom": "2026-08-15T05:55:07.000Z",
+      "domain": "ravsatexim.com",
+      "apexDomain": "ravsatexim.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9fb-f8b4-758b-ac4f-b3bd4e53fa31",
+    "_score": null,
+    "sort": [
+      1790095143894,
+      "01a0c9fb-f8b4-758b-ac4f-b3bd4e53fa31"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9fb-f8b4-758b-ac4f-b3bd4e53fa31/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9fb-f8b4-758b-ac4f-b3bd4e53fa31.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "pmdmangoes.com"
+      },
+      "page": {
+        "url": "pmdmangoes.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "pmdmangoes.com",
+      "apexDomain": "pmdmangoes.com",
+      "time": "2026-09-22T16:36:22.192Z",
+      "uuid": "01a0c9f9-9001-7323-95d5-9925afdeb341",
+      "url": "http://pmdmangoes.com/"
+    },
+    "stats": {
+      "uniqIPs": 9,
+      "uniqCountries": 4,
+      "dataLength": 5817518,
+      "encodedDataLength": 3617112,
+      "requests": 111
+    },
+    "page": {
+      "country": "US",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "162.241.85.21",
+      "apexDomainAgeDays": 631,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Buy Devgad Alphonso Mangoes – Online from PMD Mangoes",
+      "url": "https://pmdmangoes.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 21,
+      "ptr": "162-241-85-21.unifiedlayer.com",
+      "domainAgeDays": 631,
+      "tlsValidFrom": "2026-09-01T09:50:51.000Z",
+      "domain": "pmdmangoes.com",
+      "apexDomain": "pmdmangoes.com",
+      "asnname": "UNIFIEDLAYER-AS-1 - Unified Layer, US",
+      "asn": "AS46606",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9f9-9001-7323-95d5-9925afdeb341",
+    "_score": null,
+    "sort": [
+      1790094982192,
+      "01a0c9f9-9001-7323-95d5-9925afdeb341"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9f9-9001-7323-95d5-9925afdeb341/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9f9-9001-7323-95d5-9925afdeb341.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "mypaytech.de"
+      },
+      "page": {
+        "url": "mypaytech.de"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "mypaytech.de",
+      "apexDomain": "mypaytech.de",
+      "time": "2026-09-22T16:35:10.448Z",
+      "uuid": "01a0c9f8-77e7-74da-901e-29123b18c25a",
+      "url": "http://mypaytech.de/"
+    },
+    "stats": {
+      "uniqIPs": 9,
+      "uniqCountries": 4,
+      "dataLength": 3513901,
+      "encodedDataLength": 1481350,
+      "requests": 132
+    },
+    "page": {
+      "country": "DE",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "81.88.36.50",
+      "apexDomainAgeDays": 236,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "PayTech – Smart tech. Smarter leasing",
+      "url": "https://mypaytech.de/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 49,
+      "ptr": "host150.alfahosting-server.de",
+      "domainAgeDays": 236,
+      "tlsValidFrom": "2026-08-04T04:06:15.000Z",
+      "domain": "mypaytech.de",
+      "apexDomain": "mypaytech.de",
+      "asnname": "CLOUDPIT dogado GmbH, DE",
+      "asn": "AS45012",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9f8-77e7-74da-901e-29123b18c25a",
+    "_score": null,
+    "sort": [
+      1790094910448,
+      "01a0c9f8-77e7-74da-901e-29123b18c25a"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9f8-77e7-74da-901e-29123b18c25a/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9f8-77e7-74da-901e-29123b18c25a.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "manhthang.net"
+      },
+      "page": {
+        "url": "manhthang.net"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "manhthang.net",
+      "apexDomain": "manhthang.net",
+      "time": "2026-09-22T16:34:00.632Z",
+      "uuid": "01a0c9f7-6cd0-7548-9991-1a6c07a8f9b5",
+      "url": "http://manhthang.net/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 5,
+      "dataLength": 1868079,
+      "encodedDataLength": 698878,
+      "requests": 40
+    },
+    "page": {
+      "country": "VN",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "27.71.25.150",
+      "apexDomainAgeDays": 2832,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Manh Thang",
+      "url": "https://manhthang.net/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 19,
+      "domainAgeDays": 2832,
+      "tlsValidFrom": "2026-09-03T00:41:41.000Z",
+      "domain": "manhthang.net",
+      "apexDomain": "manhthang.net",
+      "asnname": "VIETEL-AS-AP - Viettel Group, VN",
+      "asn": "AS7552",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9f7-6cd0-7548-9991-1a6c07a8f9b5",
+    "_score": null,
+    "sort": [
+      1790094840632,
+      "01a0c9f7-6cd0-7548-9991-1a6c07a8f9b5"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9f7-6cd0-7548-9991-1a6c07a8f9b5/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9f7-6cd0-7548-9991-1a6c07a8f9b5.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "leezainternational.com"
+      },
+      "page": {
+        "url": "leezainternational.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "leezainternational.com",
+      "apexDomain": "leezainternational.com",
+      "time": "2026-09-22T16:33:13.077Z",
+      "uuid": "01a0c9f6-42ac-7019-a667-1d436aea77cf",
+      "url": "http://leezainternational.com/"
+    },
+    "stats": {
+      "uniqIPs": 7,
+      "uniqCountries": 3,
+      "dataLength": 25563975,
+      "encodedDataLength": 12271407,
+      "requests": 240
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "104.21.76.239",
+      "apexDomainAgeDays": 3232,
+      "language": "tr",
+      "mimeType": "text/html",
+      "title": "Home - Leeza International",
+      "url": "https://leezainternational.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 17,
+      "domainAgeDays": 3232,
+      "tlsValidFrom": "2026-09-05T12:02:41.000Z",
+      "domain": "leezainternational.com",
+      "apexDomain": "leezainternational.com",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9f6-42ac-7019-a667-1d436aea77cf",
+    "_score": null,
+    "sort": [
+      1790094793077,
+      "01a0c9f6-42ac-7019-a667-1d436aea77cf"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9f6-42ac-7019-a667-1d436aea77cf/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9f6-42ac-7019-a667-1d436aea77cf.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "gbtestingservice.com"
+      },
+      "page": {
+        "url": "gbtestingservice.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "gbtestingservice.com",
+      "apexDomain": "gbtestingservice.com",
+      "time": "2026-09-22T16:28:37.814Z",
+      "uuid": "01a0c9f2-8a71-746e-80f9-b3ca7d62641e",
+      "url": "http://gbtestingservice.com/"
+    },
+    "stats": {
+      "uniqIPs": 13,
+      "uniqCountries": 3,
+      "dataLength": 2569656,
+      "encodedDataLength": 884928,
+      "requests": 81
+    },
+    "page": {
+      "country": "DE",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "92.113.19.32",
+      "apexDomainAgeDays": 690,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Home - GB Testing Service",
+      "url": "https://gbtestingservice.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 2,
+      "domainAgeDays": 690,
+      "tlsValidFrom": "2026-09-20T07:50:46.000Z",
+      "domain": "gbtestingservice.com",
+      "apexDomain": "gbtestingservice.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9f2-8a71-746e-80f9-b3ca7d62641e",
+    "_score": null,
+    "sort": [
+      1790094517814,
+      "01a0c9f2-8a71-746e-80f9-b3ca7d62641e"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9f2-8a71-746e-80f9-b3ca7d62641e/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9f2-8a71-746e-80f9-b3ca7d62641e.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "drjanetlittlespeaks.com"
+      },
+      "page": {
+        "url": "drjanetlittlespeaks.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "drjanetlittlespeaks.com",
+      "apexDomain": "drjanetlittlespeaks.com",
+      "time": "2026-09-22T16:25:24.789Z",
+      "uuid": "01a0c9ef-94b7-71bd-aed1-4dac80a31e46",
+      "url": "http://drjanetlittlespeaks.com/"
+    },
+    "stats": {
+      "uniqIPs": 12,
+      "uniqCountries": 3,
+      "dataLength": 7351713,
+      "encodedDataLength": 2493112,
+      "requests": 91
+    },
+    "page": {
+      "country": "DE",
+      "server": "hcdn",
+      "redirected": "https-only",
+      "ip": "92.113.16.4",
+      "apexDomainAgeDays": 1250,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Dr. Jan Speaks",
+      "url": "https://drjanetlittlespeaks.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 40,
+      "domainAgeDays": 1250,
+      "tlsValidFrom": "2026-08-13T15:36:55.000Z",
+      "domain": "drjanetlittlespeaks.com",
+      "apexDomain": "drjanetlittlespeaks.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9ef-94b7-71bd-aed1-4dac80a31e46",
+    "_score": null,
+    "sort": [
+      1790094324789,
+      "01a0c9ef-94b7-71bd-aed1-4dac80a31e46"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9ef-94b7-71bd-aed1-4dac80a31e46/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9ef-94b7-71bd-aed1-4dac80a31e46.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "designbrains.be"
+      },
+      "page": {
+        "url": "designbrains.be"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "designbrains.be",
+      "apexDomain": "designbrains.be",
+      "time": "2026-09-22T16:25:02.607Z",
+      "uuid": "01a0c9ef-3863-76ff-9bc4-05dd13c4c258",
+      "url": "http://designbrains.be/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 4,
+      "dataLength": 6286478,
+      "encodedDataLength": 2127692,
+      "requests": 116
+    },
+    "page": {
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "188.114.96.3",
+      "apexDomainAgeDays": 3964,
+      "language": "nl",
+      "mimeType": "text/html",
+      "title": "Webdesign en marketing strategieën uit Limburg - Designbrains",
+      "url": "https://designbrains.be/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 54,
+      "domainAgeDays": 3964,
+      "tlsValidFrom": "2026-07-30T02:24:26.000Z",
+      "domain": "designbrains.be",
+      "apexDomain": "designbrains.be",
+      "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+      "asn": "AS13335",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9ef-3863-76ff-9bc4-05dd13c4c258",
+    "_score": null,
+    "sort": [
+      1790094302607,
+      "01a0c9ef-3863-76ff-9bc4-05dd13c4c258"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9ef-3863-76ff-9bc4-05dd13c4c258/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9ef-3863-76ff-9bc4-05dd13c4c258.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "dellacred.com.br"
+      },
+      "page": {
+        "url": "dellacred.com.br"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "dellacred.com.br",
+      "apexDomain": "dellacred.com.br",
+      "time": "2026-09-22T16:24:39.297Z",
+      "uuid": "01a0c9ee-dc1b-724a-bfc6-3f396d1604db",
+      "url": "http://dellacred.com.br/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 5,
+      "dataLength": 4325214,
+      "encodedDataLength": 1676127,
+      "requests": 100
+    },
+    "page": {
+      "country": "BR",
+      "server": "Apache",
+      "redirected": "https-only",
+      "ip": "192.185.222.150",
+      "apexDomainAgeDays": 1876,
+      "language": "pt",
+      "mimeType": "text/html",
+      "title": "Home - Dellacred",
+      "url": "https://dellacred.com.br/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 47,
+      "ptr": "br252-ip06.hostgator.com.br",
+      "domainAgeDays": 1876,
+      "tlsValidFrom": "2026-08-05T21:38:40.000Z",
+      "domain": "dellacred.com.br",
+      "apexDomain": "dellacred.com.br",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0c9ee-dc1b-724a-bfc6-3f396d1604db",
+    "_score": null,
+    "sort": [
+      1790094279297,
+      "01a0c9ee-dc1b-724a-bfc6-3f396d1604db"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0c9ee-dc1b-724a-bfc6-3f396d1604db/",
+    "screenshot": "https://urlscan.io/screenshots/01a0c9ee-dc1b-724a-bfc6-3f396d1604db.png"
+  }
+]
