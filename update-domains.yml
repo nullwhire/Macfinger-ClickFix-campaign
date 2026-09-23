@@ -1,0 +1,39 @@
+name: Atualizar domínios urlscan.io
+
+on:
+  schedule:
+    # corre a cada 6 horas — ajusta à frequência que fizer sentido
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Correr extração
+        env:
+          URLSCAN_API_KEY: ${{ secrets.URLSCAN_API_KEY }}
+        run: |
+          python scripts/urlscan_extract.py \
+            --query 'filename:"ext-b.4f9db6afd06a.js" OR (domain:velvet-otter-glagceis.life AND filename:"t.js")' \
+            --out-dir output
+
+      - name: Commit se houver alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --staged --quiet; then
+            echo "Sem alterações."
+          else
+            git commit -m "Atualiza domínios/URLs urlscan.io ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
