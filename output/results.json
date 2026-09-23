@@ -22422,5 +22422,463 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0cdfa-fdfb-74ef-9843-68f03f820288/",
     "screenshot": "https://urlscan.io/screenshots/01a0cdfa-fdfb-74ef-9843-68f03f820288.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "losmejoresboletos.com"
+      },
+      "page": {
+        "url": "losmejoresboletos.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "losmejoresboletos.com",
+      "apexDomain": "losmejoresboletos.com",
+      "time": "2026-09-23T19:37:34.319Z",
+      "uuid": "01a0cfc5-db2d-7332-94fd-0f30aca60607",
+      "url": "http://losmejoresboletos.com/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 3,
+      "dataLength": 11716330,
+      "encodedDataLength": 8099554,
+      "requests": 179
+    },
+    "page": {
+      "country": "DE",
+      "server": "hcdn",
+      "redirected": "https-only",
+      "ip": "92.113.16.72",
+      "apexDomainAgeDays": 1563,
+      "mimeType": "text/html",
+      "title": "Los Mejores Boletos – La emoción empieza con tu boleto.",
+      "url": "https://losmejoresboletos.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 43,
+      "domainAgeDays": 1563,
+      "tlsValidFrom": "2026-08-11T11:30:09.000Z",
+      "domain": "losmejoresboletos.com",
+      "apexDomain": "losmejoresboletos.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cfc5-db2d-7332-94fd-0f30aca60607",
+    "_score": null,
+    "sort": [
+      1790192254319,
+      "01a0cfc5-db2d-7332-94fd-0f30aca60607"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cfc5-db2d-7332-94fd-0f30aca60607/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cfc5-db2d-7332-94fd-0f30aca60607.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "leaseoffers.net"
+      },
+      "page": {
+        "url": "leaseoffers.net"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "leaseoffers.net",
+      "apexDomain": "leaseoffers.net",
+      "time": "2026-09-23T19:17:00.361Z",
+      "uuid": "01a0cfb3-08f7-7363-8e55-6e19c40d1c36",
+      "url": "http://leaseoffers.net/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 5,
+      "dataLength": 6209893,
+      "encodedDataLength": 3148720,
+      "requests": 130
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.192",
+      "apexDomainAgeDays": 1940,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "A WordPress Site",
+      "url": "https://leaseoffers.net/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 39,
+      "ptr": "192.0.153.160.host.secureserver.net",
+      "domainAgeDays": 1940,
+      "tlsValidFrom": "2026-08-15T02:22:39.000Z",
+      "domain": "leaseoffers.net",
+      "apexDomain": "leaseoffers.net",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cfb3-08f7-7363-8e55-6e19c40d1c36",
+    "_score": null,
+    "sort": [
+      1790191020361,
+      "01a0cfb3-08f7-7363-8e55-6e19c40d1c36"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cfb3-08f7-7363-8e55-6e19c40d1c36/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cfb3-08f7-7363-8e55-6e19c40d1c36.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "kiwanisnd.org"
+      },
+      "page": {
+        "url": "kiwanisnd.org"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "kiwanisnd.org",
+      "apexDomain": "kiwanisnd.org",
+      "time": "2026-09-23T17:36:59.282Z",
+      "uuid": "01a0cf57-5c81-75fc-8f44-188f691d569b",
+      "url": "http://kiwanisnd.org/"
+    },
+    "stats": {
+      "uniqIPs": 13,
+      "uniqCountries": 3,
+      "dataLength": 23403052,
+      "encodedDataLength": 7010576,
+      "requests": 212
+    },
+    "page": {
+      "country": "US",
+      "redirected": "https-only",
+      "ip": "212.1.211.165",
+      "apexDomainAgeDays": 2228,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Kiwanis – Disability NGO Helping India Walk Again",
+      "url": "https://kiwanisnd.org/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 49,
+      "domainAgeDays": 2228,
+      "tlsValidFrom": "2026-08-05T12:28:55.000Z",
+      "domain": "kiwanisnd.org",
+      "apexDomain": "kiwanisnd.org",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cf57-5c81-75fc-8f44-188f691d569b",
+    "_score": null,
+    "sort": [
+      1790185019282,
+      "01a0cf57-5c81-75fc-8f44-188f691d569b"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cf57-5c81-75fc-8f44-188f691d569b/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cf57-5c81-75fc-8f44-188f691d569b.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "kirkmanbespokewoodworking.co.uk"
+      },
+      "page": {
+        "url": "kirkmanbespokewoodworking.co.uk"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "kirkmanbespokewoodworking.co.uk",
+      "apexDomain": "kirkmanbespokewoodworking.co.uk",
+      "time": "2026-09-23T17:35:42.357Z",
+      "uuid": "01a0cf56-4f2a-7353-8672-7641109ef3c2",
+      "url": "http://kirkmanbespokewoodworking.co.uk/"
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 3,
+      "dataLength": 3198799,
+      "encodedDataLength": 1869527,
+      "requests": 25
+    },
+    "page": {
+      "country": "GB",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "157.245.35.21",
+      "apexDomainAgeDays": 2154,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Kirkman Bespoke Woodworking, Melksham - Custom Woodwork",
+      "url": "https://kirkmanbespokewoodworking.co.uk/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 47,
+      "ptr": "1404182.cloudwaysapps.com",
+      "domainAgeDays": 2154,
+      "tlsValidFrom": "2026-08-07T09:00:45.000Z",
+      "domain": "kirkmanbespokewoodworking.co.uk",
+      "apexDomain": "kirkmanbespokewoodworking.co.uk",
+      "asnname": "DIGITALOCEAN-ASN - DigitalOcean, LLC, US",
+      "asn": "AS14061",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cf56-4f2a-7353-8672-7641109ef3c2",
+    "_score": null,
+    "sort": [
+      1790184942357,
+      "01a0cf56-4f2a-7353-8672-7641109ef3c2"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cf56-4f2a-7353-8672-7641109ef3c2/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cf56-4f2a-7353-8672-7641109ef3c2.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "kidslearningessentials.com"
+      },
+      "page": {
+        "url": "kidslearningessentials.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "kidslearningessentials.com",
+      "apexDomain": "kidslearningessentials.com",
+      "time": "2026-09-23T17:31:23.712Z",
+      "uuid": "01a0cf52-4946-700b-a939-9928b1b1e18a",
+      "url": "http://kidslearningessentials.com/"
+    },
+    "stats": {
+      "uniqIPs": 13,
+      "uniqCountries": 4,
+      "dataLength": 10920906,
+      "encodedDataLength": 4882808,
+      "requests": 182
+    },
+    "page": {
+      "country": "DE",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "192.248.191.135",
+      "apexDomainAgeDays": 2708,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Kids Learning Essentials – Where Reluctant Readers Become Book Lovers",
+      "url": "https://kidslearningessentials.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 46,
+      "ptr": "192.248.191.135.vultrusercontent.com",
+      "domainAgeDays": 2708,
+      "tlsValidFrom": "2026-08-08T03:05:36.000Z",
+      "domain": "kidslearningessentials.com",
+      "apexDomain": "kidslearningessentials.com",
+      "asnname": "AS-VULTR - The Constant Company, LLC, US",
+      "asn": "AS20473",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cf52-4946-700b-a939-9928b1b1e18a",
+    "_score": null,
+    "sort": [
+      1790184683712,
+      "01a0cf52-4946-700b-a939-9928b1b1e18a"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cf52-4946-700b-a939-9928b1b1e18a/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cf52-4946-700b-a939-9928b1b1e18a.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "ivycapitalgroup.net"
+      },
+      "page": {
+        "url": "ivycapitalgroup.net"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "ivycapitalgroup.net",
+      "apexDomain": "ivycapitalgroup.net",
+      "time": "2026-09-23T16:56:47.186Z",
+      "uuid": "01a0cf32-a5ee-71e1-9f6d-c88022ee71c6",
+      "url": "http://ivycapitalgroup.net/"
+    },
+    "stats": {
+      "uniqIPs": 11,
+      "uniqCountries": 3,
+      "dataLength": 6089010,
+      "encodedDataLength": 4491456,
+      "requests": 93
+    },
+    "page": {
+      "country": "US",
+      "server": "Sucuri/Cloudproxy",
+      "redirected": "https-only",
+      "ip": "192.124.249.109",
+      "apexDomainAgeDays": 1722,
+      "mimeType": "text/html",
+      "title": "Ivy Capital Group, LLC",
+      "url": "https://ivycapitalgroup.net/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 8,
+      "ptr": "cloudproxy10009.sucuri.net",
+      "domainAgeDays": 1722,
+      "tlsValidFrom": "2026-09-15T01:55:07.000Z",
+      "domain": "ivycapitalgroup.net",
+      "apexDomain": "ivycapitalgroup.net",
+      "asnname": "SUCURI-SEC - Sucuri, US",
+      "asn": "AS30148",
+      "tlsIssuer": "GoDaddy TLS Intermediate CA DV - R1v1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cf32-a5ee-71e1-9f6d-c88022ee71c6",
+    "_score": null,
+    "sort": [
+      1790182607186,
+      "01a0cf32-a5ee-71e1-9f6d-c88022ee71c6"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cf32-a5ee-71e1-9f6d-c88022ee71c6/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cf32-a5ee-71e1-9f6d-c88022ee71c6.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "ibmicrofisioterapia.com.br"
+      },
+      "page": {
+        "url": "ibmicrofisioterapia.com.br"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "ibmicrofisioterapia.com.br",
+      "apexDomain": "ibmicrofisioterapia.com.br",
+      "time": "2026-09-23T16:27:08.403Z",
+      "uuid": "01a0cf17-4702-769d-98a8-2f71dbe4f0e7",
+      "url": "http://ibmicrofisioterapia.com.br/"
+    },
+    "stats": {
+      "uniqIPs": 6,
+      "uniqCountries": 4,
+      "dataLength": 3865786,
+      "encodedDataLength": 1901957,
+      "requests": 79
+    },
+    "page": {
+      "country": "BR",
+      "server": "nginx/1.29.8",
+      "redirected": "https-only",
+      "ip": "69.6.212.245",
+      "apexDomainAgeDays": 1561,
+      "language": "pt",
+      "mimeType": "text/html",
+      "title": "IBM – Instituto Brasileiro de Microfisioterapia",
+      "url": "https://ibmicrofisioterapia.com.br/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 43,
+      "ptr": "69-6-212-245.unifiedlayer.com",
+      "domainAgeDays": 1561,
+      "tlsValidFrom": "2026-08-10T18:31:08.000Z",
+      "domain": "ibmicrofisioterapia.com.br",
+      "apexDomain": "ibmicrofisioterapia.com.br",
+      "asnname": "ORACLE-BMC-31898 - Oracle Corporation, US",
+      "asn": "AS31898",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cf17-4702-769d-98a8-2f71dbe4f0e7",
+    "_score": null,
+    "sort": [
+      1790180828403,
+      "01a0cf17-4702-769d-98a8-2f71dbe4f0e7"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cf17-4702-769d-98a8-2f71dbe4f0e7/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cf17-4702-769d-98a8-2f71dbe4f0e7.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "humanfullnesswithminal.com"
+      },
+      "page": {
+        "url": "humanfullnesswithminal.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "humanfullnesswithminal.com",
+      "apexDomain": "humanfullnesswithminal.com",
+      "time": "2026-09-23T16:25:52.206Z",
+      "uuid": "01a0cf16-1264-71ef-a836-8f62b36f2991",
+      "url": "http://humanfullnesswithminal.com/"
+    },
+    "stats": {
+      "uniqIPs": 14,
+      "uniqCountries": 4,
+      "dataLength": 257014831,
+      "encodedDataLength": 7517896,
+      "requests": 1098
+    },
+    "page": {
+      "country": "DE",
+      "server": "hcdn",
+      "redirected": "https-only",
+      "ip": "2a02:4780:45:a4db:e773:61e2:9bc3:3354",
+      "apexDomainAgeDays": 827,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "humanfullnesswithminal",
+      "url": "https://humanfullnesswithminal.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 47,
+      "domainAgeDays": 827,
+      "tlsValidFrom": "2026-08-06T19:27:44.000Z",
+      "domain": "humanfullnesswithminal.com",
+      "apexDomain": "humanfullnesswithminal.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0cf16-1264-71ef-a836-8f62b36f2991",
+    "_score": null,
+    "sort": [
+      1790180752206,
+      "01a0cf16-1264-71ef-a836-8f62b36f2991"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0cf16-1264-71ef-a836-8f62b36f2991/",
+    "screenshot": "https://urlscan.io/screenshots/01a0cf16-1264-71ef-a836-8f62b36f2991.png"
   }
 ]
