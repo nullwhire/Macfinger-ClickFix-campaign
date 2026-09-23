@@ -34,18 +34,26 @@ def fetch_page(query: str, search_after: str | None, size: int, api_key: str | N
     if api_key:
         req.add_header("API-Key", api_key)
 
+    last_error = None
     for attempt in range(5):
         try:
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=60) as resp:
                 return json.loads(resp.read().decode())
         except urllib.error.HTTPError as e:
             if e.code == 429:
                 wait = 5 * (attempt + 1)
                 print(f"Rate limited, à espera {wait}s...")
                 time.sleep(wait)
+                last_error = e
                 continue
             raise
-    raise RuntimeError("Falhou após várias tentativas (rate limit persistente).")
+        except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
+            wait = 5 * (attempt + 1)
+            print(f"Erro de rede ({e}), tentativa {attempt + 1}/5, à espera {wait}s...")
+            time.sleep(wait)
+            last_error = e
+            continue
+    raise RuntimeError(f"Falhou após várias tentativas: {last_error}")
 
 
 def fetch_all(query: str, api_key: str | None, size: int = 100, sleep: float = 0.6) -> list[dict]:
@@ -94,13 +102,17 @@ def fetch_all_by_day(query: str, api_key: str | None, days: int, size: int = 100
 
     all_results = []
     seen_ids = set()
-    today = datetime.datetime.utcnow().date()
+    today = datetime.datetime.now(datetime.timezone.utc).date()
 
     for i in range(days):
         day = today - datetime.timedelta(days=i)
         day_query = f'({query}) AND date:[{day}T00:00:00 TO {day}T23:59:59]'
         print(f"--- {day} ---")
-        day_results = fetch_all(day_query, api_key=api_key, size=size, sleep=sleep)
+        try:
+            day_results = fetch_all(day_query, api_key=api_key, size=size, sleep=sleep)
+        except RuntimeError as e:
+            print(f"AVISO: falhou o dia {day} após retries ({e}) — a saltar este dia.")
+            continue
         for r in day_results:
             rid = r.get("_id")
             if rid and rid not in seen_ids:
