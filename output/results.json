@@ -23451,5 +23451,63 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0d1ca-0afb-7618-b831-2a6a7fd55e55/",
     "screenshot": "https://urlscan.io/screenshots/01a0d1ca-0afb-7618-b831-2a6a7fd55e55.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "enseigne-magasin.fr"
+      },
+      "page": {
+        "url": "enseigne-magasin.fr"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "enseigne-magasin.fr",
+      "apexDomain": "enseigne-magasin.fr",
+      "time": "2026-09-24T14:53:31.429Z",
+      "uuid": "01a0d3e8-2fc6-7548-8b9f-b936ef363c87",
+      "url": "http://enseigne-magasin.fr/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 3,
+      "dataLength": 6499006,
+      "encodedDataLength": 2879588,
+      "requests": 151
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.112",
+      "apexDomainAgeDays": 2014,
+      "language": "fr",
+      "mimeType": "text/html",
+      "title": "enseigne-magasin.fr – Fabrication Enseignes Lumineuses LED, Pose, Prix Imbattable, Garantie 3 ans",
+      "url": "https://enseigne-magasin.fr/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 31,
+      "ptr": "112.0.153.160.host.secureserver.net",
+      "domainAgeDays": 2014,
+      "tlsValidFrom": "2026-08-23T21:32:35.000Z",
+      "domain": "enseigne-magasin.fr",
+      "apexDomain": "enseigne-magasin.fr",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0d3e8-2fc6-7548-8b9f-b936ef363c87",
+    "_score": null,
+    "sort": [
+      1790261611429,
+      "01a0d3e8-2fc6-7548-8b9f-b936ef363c87"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0d3e8-2fc6-7548-8b9f-b936ef363c87/",
+    "screenshot": "https://urlscan.io/screenshots/01a0d3e8-2fc6-7548-8b9f-b936ef363c87.png"
   }
 ]
