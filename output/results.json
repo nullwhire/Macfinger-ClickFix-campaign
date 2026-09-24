@@ -23393,5 +23393,63 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0d01b-2bd0-74b4-9e05-d952b5d50062/",
     "screenshot": "https://urlscan.io/screenshots/01a0d01b-2bd0-74b4-9e05-d952b5d50062.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "zeyndekor.com"
+      },
+      "page": {
+        "url": "zeyndekor.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "zeyndekor.com",
+      "apexDomain": "zeyndekor.com",
+      "time": "2026-09-24T05:01:25.959Z",
+      "uuid": "01a0d1ca-0afb-7618-b831-2a6a7fd55e55",
+      "url": "http://zeyndekor.com/"
+    },
+    "stats": {
+      "uniqIPs": 10,
+      "uniqCountries": 5,
+      "dataLength": 5489121,
+      "encodedDataLength": 3320184,
+      "requests": 126
+    },
+    "page": {
+      "country": "TR",
+      "server": "nginx",
+      "redirected": "https-only",
+      "ip": "153.52.92.87",
+      "apexDomainAgeDays": 3594,
+      "language": "tr",
+      "mimeType": "text/html",
+      "title": "Zeyn Dekor | Eminönü Toptan Takı Standı, Kolye Kutusu",
+      "url": "https://zeyndekor.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 30,
+      "ptr": "server.provegacloud.com",
+      "domainAgeDays": 3594,
+      "tlsValidFrom": "2026-08-24T07:41:14.000Z",
+      "domain": "zeyndekor.com",
+      "apexDomain": "zeyndekor.com",
+      "asnname": "NETLEN Netlen Internet Hizmetleri Ltd. Sti., TR",
+      "asn": "AS44620",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0d1ca-0afb-7618-b831-2a6a7fd55e55",
+    "_score": null,
+    "sort": [
+      1790226085959,
+      "01a0d1ca-0afb-7618-b831-2a6a7fd55e55"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0d1ca-0afb-7618-b831-2a6a7fd55e55/",
+    "screenshot": "https://urlscan.io/screenshots/01a0d1ca-0afb-7618-b831-2a6a7fd55e55.png"
   }
 ]
