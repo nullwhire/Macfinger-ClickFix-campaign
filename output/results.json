@@ -23741,5 +23741,61 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0d79f-1e69-71a1-926d-88b61c18998c/",
     "screenshot": "https://urlscan.io/screenshots/01a0d79f-1e69-71a1-926d-88b61c18998c.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "mypickledrop.com"
+      },
+      "page": {
+        "url": "mypickledrop.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "mypickledrop.com",
+      "apexDomain": "mypickledrop.com",
+      "time": "2026-09-25T15:54:28.929Z",
+      "uuid": "01a0d946-5dd1-72ed-b898-9a00274cb05d",
+      "url": "http://mypickledrop.com/"
+    },
+    "stats": {
+      "uniqIPs": 8,
+      "uniqCountries": 3,
+      "dataLength": 5660131,
+      "encodedDataLength": 1382995,
+      "requests": 90
+    },
+    "page": {
+      "country": "DE",
+      "server": "hcdn",
+      "redirected": "https-only",
+      "ip": "92.113.16.232",
+      "apexDomainAgeDays": 726,
+      "mimeType": "text/html",
+      "title": "My Pickle Drop: The One-Stop Shop for All Your Pickleball Gear",
+      "url": "https://mypickledrop.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 7,
+      "domainAgeDays": 726,
+      "tlsValidFrom": "2026-09-18T13:47:00.000Z",
+      "domain": "mypickledrop.com",
+      "apexDomain": "mypickledrop.com",
+      "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+      "asn": "AS47583",
+      "tlsIssuer": "YE2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0d946-5dd1-72ed-b898-9a00274cb05d",
+    "_score": null,
+    "sort": [
+      1790351668929,
+      "01a0d946-5dd1-72ed-b898-9a00274cb05d"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0d946-5dd1-72ed-b898-9a00274cb05d/",
+    "screenshot": "https://urlscan.io/screenshots/01a0d946-5dd1-72ed-b898-9a00274cb05d.png"
   }
 ]
