@@ -24088,5 +24088,191 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0daa2-eb1c-743b-ac61-d07ee3aa0ce6/",
     "screenshot": "https://urlscan.io/screenshots/01a0daa2-eb1c-743b-ac61-d07ee3aa0ce6.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bhpbusiness.pl"
+      },
+      "page": {
+        "url": "bhpbusiness.pl"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "bhpbusiness.pl",
+      "apexDomain": "bhpbusiness.pl",
+      "time": "2026-09-26T15:21:30.660Z",
+      "uuid": "01a0de4e-229b-753d-b0be-c2bdd5151eae",
+      "url": "https://bhpbusiness.pl/",
+      "tags": [
+        "hybridanalysis"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 2,
+      "dataLength": 3684119,
+      "encodedDataLength": 1544179,
+      "requests": 77
+    },
+    "page": {
+      "country": "PL",
+      "server": "LiteSpeed",
+      "ip": "109.95.157.137",
+      "apexDomainAgeDays": 1297,
+      "language": "pl",
+      "mimeType": "text/html",
+      "title": "BUSINESS PARTNER – Obsługa BHP, Prawo Pracy, Mediacje sądowe i pozasądowe",
+      "url": "https://bhpbusiness.pl/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 34,
+      "ptr": "web03-s225.hosting.eu1.dhosting.com",
+      "domainAgeDays": 1297,
+      "tlsValidFrom": "2026-08-23T01:26:20.000Z",
+      "domain": "bhpbusiness.pl",
+      "apexDomain": "bhpbusiness.pl",
+      "asnname": "DHOSTING-AS dhosting.pl Sp. z o.o., PL",
+      "asn": "AS48896",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0de4e-229b-753d-b0be-c2bdd5151eae",
+    "_score": null,
+    "sort": [
+      1790436090660,
+      "01a0de4e-229b-753d-b0be-c2bdd5151eae"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0de4e-229b-753d-b0be-c2bdd5151eae/",
+    "screenshot": "https://urlscan.io/screenshots/01a0de4e-229b-753d-b0be-c2bdd5151eae.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bhpbusiness.pl"
+      },
+      "page": {
+        "url": "bhpbusiness.pl"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "bhpbusiness.pl",
+      "apexDomain": "bhpbusiness.pl",
+      "time": "2026-09-26T14:58:24.554Z",
+      "uuid": "01a0de39-0049-72c8-941f-1cc19312d855",
+      "url": "http://bhpbusiness.pl/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 2,
+      "dataLength": 3684119,
+      "encodedDataLength": 1544206,
+      "requests": 77
+    },
+    "page": {
+      "country": "PL",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "109.95.157.137",
+      "apexDomainAgeDays": 1297,
+      "language": "pl",
+      "mimeType": "text/html",
+      "title": "BUSINESS PARTNER – Obsługa BHP, Prawo Pracy, Mediacje sądowe i pozasądowe",
+      "url": "https://bhpbusiness.pl/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 34,
+      "ptr": "web03-s225.hosting.eu1.dhosting.com",
+      "domainAgeDays": 1297,
+      "tlsValidFrom": "2026-08-23T01:26:20.000Z",
+      "domain": "bhpbusiness.pl",
+      "apexDomain": "bhpbusiness.pl",
+      "asnname": "DHOSTING-AS dhosting.pl Sp. z o.o., PL",
+      "asn": "AS48896",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0de39-0049-72c8-941f-1cc19312d855",
+    "_score": null,
+    "sort": [
+      1790434704554,
+      "01a0de39-0049-72c8-941f-1cc19312d855"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0de39-0049-72c8-941f-1cc19312d855/",
+    "screenshot": "https://urlscan.io/screenshots/01a0de39-0049-72c8-941f-1cc19312d855.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "bhpbusiness.pl"
+      },
+      "page": {
+        "url": "bhpbusiness.pl"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "bhpbusiness.pl",
+      "apexDomain": "bhpbusiness.pl",
+      "time": "2026-09-26T12:58:04.889Z",
+      "uuid": "01a0ddca-d638-709b-a7e9-0977401baeea",
+      "url": "http://bhpbusiness.pl/",
+      "tags": [
+        "clickfix",
+        "threatfox",
+        "@clickfixhunter"
+      ]
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 2,
+      "dataLength": 3684119,
+      "encodedDataLength": 1544130,
+      "requests": 77
+    },
+    "page": {
+      "country": "PL",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "109.95.157.137",
+      "apexDomainAgeDays": 1297,
+      "language": "pl",
+      "mimeType": "text/html",
+      "title": "BUSINESS PARTNER – Obsługa BHP, Prawo Pracy, Mediacje sądowe i pozasądowe",
+      "url": "https://bhpbusiness.pl/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 34,
+      "ptr": "web03-s225.hosting.eu1.dhosting.com",
+      "domainAgeDays": 1297,
+      "tlsValidFrom": "2026-08-23T01:26:20.000Z",
+      "domain": "bhpbusiness.pl",
+      "apexDomain": "bhpbusiness.pl",
+      "asnname": "DHOSTING-AS dhosting.pl Sp. z o.o., PL",
+      "asn": "AS48896",
+      "tlsIssuer": "YR2",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ddca-d638-709b-a7e9-0977401baeea",
+    "_score": null,
+    "sort": [
+      1790427484889,
+      "01a0ddca-d638-709b-a7e9-0977401baeea"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ddca-d638-709b-a7e9-0977401baeea/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ddca-d638-709b-a7e9-0977401baeea.png"
   }
 ]
