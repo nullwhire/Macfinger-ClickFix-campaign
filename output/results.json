@@ -24031,5 +24031,62 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0d962-e266-737d-b6bf-3ee261b64c74/",
     "screenshot": "https://urlscan.io/screenshots/01a0d962-e266-737d-b6bf-3ee261b64c74.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "xaydungcaitaohomehn.com"
+      },
+      "page": {
+        "url": "xaydungcaitaohomehn.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "xaydungcaitaohomehn.com",
+      "apexDomain": "xaydungcaitaohomehn.com",
+      "time": "2026-09-25T22:15:12.250Z",
+      "uuid": "01a0daa2-eb1c-743b-ac61-d07ee3aa0ce6",
+      "url": "http://xaydungcaitaohomehn.com/"
+    },
+    "stats": {
+      "uniqIPs": 12,
+      "uniqCountries": 3,
+      "dataLength": 7779095,
+      "encodedDataLength": 1661296,
+      "requests": 99
+    },
+    "page": {
+      "country": "VN",
+      "server": "LiteSpeed",
+      "redirected": "https-only",
+      "ip": "103.221.223.62",
+      "apexDomainAgeDays": 726,
+      "language": "vi",
+      "mimeType": "text/html",
+      "title": "Trang chủ - Tư Vấn Xây Dựng, Cải Tạo Home Hà Nội",
+      "url": "https://xaydungcaitaohomehn.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 49,
+      "domainAgeDays": 726,
+      "tlsValidFrom": "2026-08-07T01:29:50.000Z",
+      "domain": "xaydungcaitaohomehn.com",
+      "apexDomain": "xaydungcaitaohomehn.com",
+      "asnname": "AZDIGI-AS-VN - AZDIGI Corporation, VN",
+      "asn": "AS63760",
+      "tlsIssuer": "YR1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0daa2-eb1c-743b-ac61-d07ee3aa0ce6",
+    "_score": null,
+    "sort": [
+      1790374512250,
+      "01a0daa2-eb1c-743b-ac61-d07ee3aa0ce6"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0daa2-eb1c-743b-ac61-d07ee3aa0ce6/",
+    "screenshot": "https://urlscan.io/screenshots/01a0daa2-eb1c-743b-ac61-d07ee3aa0ce6.png"
   }
 ]
