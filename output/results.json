@@ -24446,5 +24446,107 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0e4d8-2a70-7164-bcfe-65e15758f951/",
     "screenshot": "https://urlscan.io/screenshots/01a0e4d8-2a70-7164-bcfe-65e15758f951.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "aasmaworld.com"
+      },
+      "page": {
+        "url": "aasmaworld.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "aasmaworld.com",
+      "apexDomain": "aasmaworld.com",
+      "time": "2026-09-28T11:12:33.389Z",
+      "uuid": "01a0e7b6-e710-717d-b795-3112d23057d6",
+      "url": "http://aasmaworld.com/"
+    },
+    "stats": {
+      "uniqIPs": 15,
+      "uniqCountries": 4,
+      "dataLength": 6457408,
+      "encodedDataLength": 3711756,
+      "requests": 111
+    },
+    "page": {
+      "country": "IN",
+      "server": "nginx",
+      "redirected": "parent-domain",
+      "ip": "139.59.42.46",
+      "apexDomainAgeDays": 1806,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Best Interior Design and Home Decor Items - AASMA WOLRD",
+      "url": "https://www.aasmaworld.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 36,
+      "ptr": "1615475.cloudwaysapps.com",
+      "domainAgeDays": 1806,
+      "tlsValidFrom": "2026-08-22T14:21:48.000Z",
+      "domain": "www.aasmaworld.com",
+      "apexDomain": "aasmaworld.com",
+      "asnname": "DIGITALOCEAN-ASN - DigitalOcean, LLC, US",
+      "asn": "AS14061",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0e7b6-e710-717d-b795-3112d23057d6",
+    "_score": null,
+    "sort": [
+      1790593953389,
+      "01a0e7b6-e710-717d-b795-3112d23057d6"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0e7b6-e710-717d-b795-3112d23057d6/",
+    "screenshot": "https://urlscan.io/screenshots/01a0e7b6-e710-717d-b795-3112d23057d6.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+      },
+      "page": {
+        "url": "skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "skaedbraearaquiet.life",
+      "apexDomain": "skaedbraearaquiet.life",
+      "time": "2026-09-28T07:48:57.443Z",
+      "uuid": "01a0e6fc-6b91-7414-8e93-b03d7914abb1",
+      "url": "https://skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 193187,
+      "encodedDataLength": 185272,
+      "requests": 2
+    },
+    "page": {
+      "domainAgeDays": 8,
+      "domain": "skaedbraearaquiet.life",
+      "apexDomainAgeDays": 8,
+      "apexDomain": "skaedbraearaquiet.life",
+      "title": "skaedbraearaquiet.life",
+      "url": "https://skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+    },
+    "labels": [],
+    "_id": "01a0e6fc-6b91-7414-8e93-b03d7914abb1",
+    "_score": null,
+    "sort": [
+      1790581737443,
+      "01a0e6fc-6b91-7414-8e93-b03d7914abb1"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0e6fc-6b91-7414-8e93-b03d7914abb1/",
+    "screenshot": "https://urlscan.io/screenshots/01a0e6fc-6b91-7414-8e93-b03d7914abb1.png"
   }
 ]
