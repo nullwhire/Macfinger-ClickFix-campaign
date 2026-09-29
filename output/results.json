@@ -24606,5 +24606,63 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a0e883-7df2-731e-bcb3-b29d5a601114/",
     "screenshot": "https://urlscan.io/screenshots/01a0e883-7df2-731e-bcb3-b29d5a601114.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "aasmaworld.com"
+      },
+      "page": {
+        "url": "aasmaworld.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "aasmaworld.com",
+      "apexDomain": "aasmaworld.com",
+      "time": "2026-09-29T10:56:06.428Z",
+      "uuid": "01a0ecce-2cf2-76ee-bcf4-def45de9da0f",
+      "url": "http://aasmaworld.com/"
+    },
+    "stats": {
+      "uniqIPs": 15,
+      "uniqCountries": 4,
+      "dataLength": 6460632,
+      "encodedDataLength": 3712465,
+      "requests": 112
+    },
+    "page": {
+      "country": "IN",
+      "server": "nginx",
+      "redirected": "parent-domain",
+      "ip": "139.59.42.46",
+      "apexDomainAgeDays": 1807,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Best Interior Design and Home Decor Items - AASMA WOLRD",
+      "url": "https://www.aasmaworld.com/",
+      "tlsValidDays": 89,
+      "tlsAgeDays": 37,
+      "ptr": "1615475.cloudwaysapps.com",
+      "domainAgeDays": 1807,
+      "tlsValidFrom": "2026-08-22T14:21:48.000Z",
+      "domain": "www.aasmaworld.com",
+      "apexDomain": "aasmaworld.com",
+      "asnname": "DIGITALOCEAN-ASN - DigitalOcean, LLC, US",
+      "asn": "AS14061",
+      "tlsIssuer": "YE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a0ecce-2cf2-76ee-bcf4-def45de9da0f",
+    "_score": null,
+    "sort": [
+      1790679366428,
+      "01a0ecce-2cf2-76ee-bcf4-def45de9da0f"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a0ecce-2cf2-76ee-bcf4-def45de9da0f/",
+    "screenshot": "https://urlscan.io/screenshots/01a0ecce-2cf2-76ee-bcf4-def45de9da0f.png"
   }
 ]
