@@ -24997,5 +24997,63 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a10e5f-bd0e-7248-ac7d-e5884e9e8ee8/",
     "screenshot": "https://urlscan.io/screenshots/01a10e5f-bd0e-7248-ac7d-e5884e9e8ee8.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "connollystewart.com"
+      },
+      "page": {
+        "url": "connollystewart.com"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "connollystewart.com",
+      "apexDomain": "connollystewart.com",
+      "time": "2026-10-07T19:26:27.676Z",
+      "uuid": "01a117d4-5bea-7069-88ce-f22009154e93",
+      "url": "http://connollystewart.com/"
+    },
+    "stats": {
+      "uniqIPs": 4,
+      "uniqCountries": 2,
+      "dataLength": 1786526,
+      "encodedDataLength": 1479332,
+      "requests": 26
+    },
+    "page": {
+      "country": "US",
+      "server": "cloudflare",
+      "redirected": "https-only",
+      "ip": "160.153.0.121",
+      "apexDomainAgeDays": 1800,
+      "language": "en",
+      "mimeType": "text/html",
+      "title": "Leslie and John's Blog – Our page will be updated someday",
+      "url": "https://connollystewart.com/",
+      "tlsValidDays": 90,
+      "tlsAgeDays": 27,
+      "ptr": "121.0.153.160.host.secureserver.net",
+      "domainAgeDays": 1800,
+      "tlsValidFrom": "2026-09-10T04:50:23.000Z",
+      "domain": "connollystewart.com",
+      "apexDomain": "connollystewart.com",
+      "asnname": "CLOUDFLARESPECTRUM Cloudflare London, LLC, US",
+      "asn": "AS209242",
+      "tlsIssuer": "WE1",
+      "status": "200"
+    },
+    "labels": [],
+    "_id": "01a117d4-5bea-7069-88ce-f22009154e93",
+    "_score": null,
+    "sort": [
+      1791401187676,
+      "01a117d4-5bea-7069-88ce-f22009154e93"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a117d4-5bea-7069-88ce-f22009154e93/",
+    "screenshot": "https://urlscan.io/screenshots/01a117d4-5bea-7069-88ce-f22009154e93.png"
   }
 ]
