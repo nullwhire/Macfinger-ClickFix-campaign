@@ -33046,5 +33046,136 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a1591d-a162-75cd-a386-2973b930c767/",
     "screenshot": "https://urlscan.io/screenshots/01a1591d-a162-75cd-a386-2973b930c767.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+      },
+      "page": {
+        "url": "skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "skaedbraearaquiet.life",
+      "apexDomain": "skaedbraearaquiet.life",
+      "time": "2026-10-20T20:38:59.483Z",
+      "uuid": "01a15b09-5201-72dd-af46-cee3add74632",
+      "url": "https://skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 193187,
+      "encodedDataLength": 185272,
+      "requests": 2
+    },
+    "page": {
+      "domainAgeDays": 31,
+      "domain": "skaedbraearaquiet.life",
+      "apexDomainAgeDays": 31,
+      "apexDomain": "skaedbraearaquiet.life",
+      "title": "skaedbraearaquiet.life",
+      "url": "https://skaedbraearaquiet.life/ext-b.4f9db6afd06a.js"
+    },
+    "labels": [],
+    "_id": "01a15b09-5201-72dd-af46-cee3add74632",
+    "_score": null,
+    "sort": [
+      1792528739483,
+      "01a15b09-5201-72dd-af46-cee3add74632"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a15b09-5201-72dd-af46-cee3add74632/",
+    "screenshot": "https://urlscan.io/screenshots/01a15b09-5201-72dd-af46-cee3add74632.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      },
+      "page": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomain": "velvet-otter-glagceis.life",
+      "time": "2026-10-20T19:38:42.978Z",
+      "uuid": "01a15ad2-220b-7291-9336-8c080b9c5247",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=b3741350d0a71ac86c352a5e4c2aae96"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 192891,
+      "encodedDataLength": 184976,
+      "requests": 2
+    },
+    "page": {
+      "domainAgeDays": 29,
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomainAgeDays": 29,
+      "apexDomain": "velvet-otter-glagceis.life",
+      "title": "velvet-otter-glagceis.life",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=b3741350d0a71ac86c352a5e4c2aae96"
+    },
+    "labels": [],
+    "_id": "01a15ad2-220b-7291-9336-8c080b9c5247",
+    "_score": null,
+    "sort": [
+      1792525122978,
+      "01a15ad2-220b-7291-9336-8c080b9c5247"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a15ad2-220b-7291-9336-8c080b9c5247/",
+    "screenshot": "https://urlscan.io/screenshots/01a15ad2-220b-7291-9336-8c080b9c5247.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      },
+      "page": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomain": "velvet-otter-glagceis.life",
+      "time": "2026-10-20T16:56:51.351Z",
+      "uuid": "01a15a3e-160d-7104-b2fd-9188aeddd8b0",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=432d3e20c21446776f3dbdcdb6a8f0e2"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 0,
+      "encodedDataLength": 0,
+      "requests": 1
+    },
+    "page": {
+      "domainAgeDays": 29,
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomainAgeDays": 29,
+      "apexDomain": "velvet-otter-glagceis.life",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=432d3e20c21446776f3dbdcdb6a8f0e2"
+    },
+    "labels": [],
+    "_id": "01a15a3e-160d-7104-b2fd-9188aeddd8b0",
+    "_score": null,
+    "sort": [
+      1792515411351,
+      "01a15a3e-160d-7104-b2fd-9188aeddd8b0"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a15a3e-160d-7104-b2fd-9188aeddd8b0/",
+    "screenshot": "https://urlscan.io/screenshots/01a15a3e-160d-7104-b2fd-9188aeddd8b0.png"
   }
 ]
