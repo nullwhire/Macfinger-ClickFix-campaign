@@ -33306,5 +33306,48 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a15b64-a0d2-708e-935a-e0437bdcd72b/",
     "screenshot": "https://urlscan.io/screenshots/01a15b64-a0d2-708e-935a-e0437bdcd72b.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      },
+      "page": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomain": "velvet-otter-glagceis.life",
+      "time": "2026-10-21T10:32:52.387Z",
+      "uuid": "01a15e04-e3fd-7091-9800-211abf69e007",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=0b672dcbadda94c151f6a1af2df68b71"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 0,
+      "encodedDataLength": 0,
+      "requests": 1
+    },
+    "page": {
+      "domainAgeDays": 29,
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomainAgeDays": 29,
+      "apexDomain": "velvet-otter-glagceis.life",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=0b672dcbadda94c151f6a1af2df68b71"
+    },
+    "labels": [],
+    "_id": "01a15e04-e3fd-7091-9800-211abf69e007",
+    "_score": null,
+    "sort": [
+      1792578772387,
+      "01a15e04-e3fd-7091-9800-211abf69e007"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a15e04-e3fd-7091-9800-211abf69e007/",
+    "screenshot": "https://urlscan.io/screenshots/01a15e04-e3fd-7091-9800-211abf69e007.png"
   }
 ]
