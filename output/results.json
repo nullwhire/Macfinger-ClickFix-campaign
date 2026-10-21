@@ -33177,5 +33177,134 @@
     ],
     "result": "https://urlscan.io/api/v1/result/01a15a3e-160d-7104-b2fd-9188aeddd8b0/",
     "screenshot": "https://urlscan.io/screenshots/01a15a3e-160d-7104-b2fd-9188aeddd8b0.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      },
+      "page": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomain": "velvet-otter-glagceis.life",
+      "time": "2026-10-20T23:42:39.336Z",
+      "uuid": "01a15bb1-9d71-75de-802c-f6a8098a13dd",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=1fdebdee9103792f2065857f577a689a"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 0,
+      "encodedDataLength": 0,
+      "requests": 1
+    },
+    "page": {
+      "domainAgeDays": 29,
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomainAgeDays": 29,
+      "apexDomain": "velvet-otter-glagceis.life",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=1fdebdee9103792f2065857f577a689a"
+    },
+    "labels": [],
+    "_id": "01a15bb1-9d71-75de-802c-f6a8098a13dd",
+    "_score": null,
+    "sort": [
+      1792539759336,
+      "01a15bb1-9d71-75de-802c-f6a8098a13dd"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a15bb1-9d71-75de-802c-f6a8098a13dd/",
+    "screenshot": "https://urlscan.io/screenshots/01a15bb1-9d71-75de-802c-f6a8098a13dd.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      },
+      "page": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomain": "velvet-otter-glagceis.life",
+      "time": "2026-10-20T23:38:41.518Z",
+      "uuid": "01a15bad-fc47-72eb-aed9-ae0d4c9637fb",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=c1a9f98410b2eaf7e45f28b498cb8368"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 0,
+      "encodedDataLength": 0,
+      "requests": 1
+    },
+    "page": {
+      "domainAgeDays": 29,
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomainAgeDays": 29,
+      "apexDomain": "velvet-otter-glagceis.life",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=c1a9f98410b2eaf7e45f28b498cb8368"
+    },
+    "labels": [],
+    "_id": "01a15bad-fc47-72eb-aed9-ae0d4c9637fb",
+    "_score": null,
+    "sort": [
+      1792539521518,
+      "01a15bad-fc47-72eb-aed9-ae0d4c9637fb"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a15bad-fc47-72eb-aed9-ae0d4c9637fb/",
+    "screenshot": "https://urlscan.io/screenshots/01a15bad-fc47-72eb-aed9-ae0d4c9637fb.png"
+  },
+  {
+    "submitter": {},
+    "canonical": {
+      "task": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      },
+      "page": {
+        "url": "velvet-otter-glagceis.life/t.js"
+      }
+    },
+    "task": {
+      "visibility": "public",
+      "method": "api",
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomain": "velvet-otter-glagceis.life",
+      "time": "2026-10-20T22:18:33.915Z",
+      "uuid": "01a15b64-a0d2-708e-935a-e0437bdcd72b",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=8058a5e0255a6f6e8584e4443700ac38"
+    },
+    "stats": {
+      "uniqIPs": 1,
+      "uniqCountries": 0,
+      "dataLength": 0,
+      "encodedDataLength": 0,
+      "requests": 1
+    },
+    "page": {
+      "domainAgeDays": 29,
+      "domain": "velvet-otter-glagceis.life",
+      "apexDomainAgeDays": 29,
+      "apexDomain": "velvet-otter-glagceis.life",
+      "url": "https://velvet-otter-glagceis.life/t.js?site=8058a5e0255a6f6e8584e4443700ac38"
+    },
+    "labels": [],
+    "_id": "01a15b64-a0d2-708e-935a-e0437bdcd72b",
+    "_score": null,
+    "sort": [
+      1792534713915,
+      "01a15b64-a0d2-708e-935a-e0437bdcd72b"
+    ],
+    "result": "https://urlscan.io/api/v1/result/01a15b64-a0d2-708e-935a-e0437bdcd72b/",
+    "screenshot": "https://urlscan.io/screenshots/01a15b64-a0d2-708e-935a-e0437bdcd72b.png"
   }
 ]
